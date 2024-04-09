@@ -1,0 +1,27 @@
+{
+	"Constituencies": {
+	    "General":412,
+	    "SC":84,
+	    "ST":47
+	},
+	"Winners": {
+		"Male":481,
+		"Female":62,
+		"Third Gender":0
+	},
+	"Contestents": {
+		"Male":7577,
+		"Female":668,
+		"Third Gender":6
+	},
+	"Electors": {
+	    "Male":437035372,
+		"Female":397018915,
+		"Third Gender":28527
+	},
+	"Voters": {
+	    "Male":292826408,
+		"Female":260192272,
+		"Third Gender":1968
+	}
+}

@@ -1,0 +1,502 @@
+SR. NO.,PARTY TYPE,ABBREVIATION,PARTY SYMBOL,PARTY NAME
+1,N,BJP,Lotus,Bharatiya Janata Party
+2,N,BSP,Elephant,Bahujan Samaj Party
+3,N,CPI,Ears of Corn And Sickle,Communist Party of India
+4,N,CPM,"Hammer, Sickle and Star",Communist Party of India  (Marxist)
+5,N,INC,Hand,Indian National Congress
+6,N,NCP,Clock,Nationalist Congress Party
+7,S,AAAP,Broom,Aam Aadmi Party
+8,S,ADMK,Two Leaves,All India Anna Dravida Munnetra Kazhagam
+9,S,AGP,Elephant,Asom Gana Parishad
+10,S,AIFB,"Almirah,Lion",All India Forward Bloc
+11,S,AINRC,Jug,All India N.R. Congress
+12,S,AITC,Flowers and Grass,All India Trinamool Congress
+13,S,AIUDF,Lock and Key,All India United Democratic Front
+14,S,AJSUP,Banana,AJSU Party
+15,S,BJD,Conch,Biju Janata Dal
+16,S,BOPF,Nangol,Bodoland Peoples Front
+17,S,DMDK,Nagara,Desiya Murpokku Dravida Kazhagam
+18,S,DMK,Rising Sun,Dravida Munnetra Kazhagam
+19,S,HJCBL,Tractor,Haryana Janhit Congress (BL)
+20,S,INLD,Spectacles,Indian National Lok Dal
+21,S,IUML,"Battery Torch,Ladder",Indian Union Muslim League
+22,S,JD(S),A lady farmer carrying paddy on her head,Janata Dal  (Secular)
+23,S,JD(U),Arrow,Janata Dal  (United)
+24,S,JKN,Plough,Jammu & Kashmir National Conference
+25,S,JKNPP,"Bicycle,Pressure Cooker",Jammu & Kashmir National Panthers Party
+26,S,JKPDP,Ink Pot &amp; Pen,Jammu & Kashmir Peoples Democratic Party
+27,S,JMM,"Almirah,Bow &amp; Arrow,Dish Antenna,Table Lamp",Jharkhand Mukti Morcha
+28,S,JVM,Comb,Jharkhand Vikas Morcha (Prajatantrik)
+29,S,KEC(M),Two Leaves,Kerala Congress  (M)
+30,S,LJP,Bungalow,Lok Jan Shakti Party
+31,S,MNS,Railway Engine,Maharashtra Navnirman sena
+32,S,NPEP,Book,National Peoples Party
+33,S,NPF,Cock,Naga Peoples Front
+34,S,PMK,Mango,Pattali Makkal Katchi
+35,S,PPA,Maize,People's Party of Arunachal
+36,S,RJD,"Candles,Hurricane Lamp",Rashtriya Janata Dal
+37,S,RLD,Hand Pump,Rashtriya Lok Dal
+38,S,RSP,Spade &amp; Stoker,Revolutionary Socialist Party
+39,S,SAD,Scales,Shiromani Akali Dal
+40,S,SDF,Umbrella,Sikkim Democratic Front
+41,S,SHS,"Bow &amp; Arrow,Cauliflower,Envelope,Scissors",Shivsena
+42,S,SP,"Almirah,Bicycle,Walking Stick",Samajwadi Party
+43,S,TDP,Bicycle,Telugu Desam
+44,S,TRS,Car,Telangana Rashtra Samithi
+45,S,UDP,Drum,United Democratic Party
+46,U,A S P,Walking Stick,Adarsh Samaj Party
+47,U,Aa S P,Gas Cylinder,Asankhya Samaj Party
+48,U,AAMJP,Pen Nib with Seven Rays,Aam Janata Party
+49,U,AAP,Almirah,awami aamjan party
+50,U,ABAS,BUCKET,Akhil Bharatiya Ashok Sena
+51,U,ABCD(A),"Candles,Kite",Akhil Bharatiya Congress Dal (Ambedkar)
+52,U,ABHKP,Auto- Rickshaw,Akhil Bharatiya Hind Kranti Party
+53,U,ABHM,"Almirah,Bat,Carrot,Coconut,Whistle",Akhil Bharat Hindu Mahasabha
+54,U,ABJS,"Air Conditioner,Battery Torch,Candles,Kite",Akhil Bharatiya Jan Sangh
+55,U,ABML(S),"Balloon,Kite,Scissors",Akhil Bharatiya Muslim League (Secular)
+56,U,ABMP,Pen Nib with Seven Rays,Akhil Bharatiya Manavata Paksha
+57,U,ABRS,Table Lamp,Akhil Bharatiya Rajarya Sabha
+58,U,ABSC,Lady Purse,Akhil Bharatiya Samajwadi Congress
+59,U,ABSP,Auto- Rickshaw,Akhand Bharat Samaj Party
+60,U,ABSR,Chappals,Akhil Bharatiya Shivsena Rashtrawadi
+61,U,ABVCP,Telephone,Akhil Bhartiya Vikas Congress Party
+62,U,AD,"Cup &amp; Saucer,Scissors",Apna Dal
+63,U,ADPT,Gas Cylinder,Apna Desh Party
+64,U,ADSMK,Candles,Anaithindia Dravidar Samudaya Munnetra Kazhagam
+65,U,ADSP,Auto- Rickshaw,Aadivasi Sena Party
+66,U,ADUP,"Grapes,Kettle",Apna Dal United Party
+67,U,AGRJP,Pen Nib with Seven Rays,Agar Jan Party
+68,U,AIACP,Batsman,All India Azaad Congress Party
+69,U,aicp,CALCULATOR,New All India Congress Party
+70,U,AIMF,Air Conditioner,All India Minorities Front
+71,U,AIMIM,"Almirah,Kite",All India Majlis-E-Ittehadul Muslimeen
+72,U,aimpr,Air Conditioner,All India Mazdoor Party (Rangreta)
+73,U,AIPF,"Camera,Scissors",All India Peoples' Front (Radical)
+74,U,AIRSP,Sewing Machine,All India Ravidas Samata Party
+75,U,AJKMP,Auto- Rickshaw,All J & K Kisan Majdoor Party
+76,U,AKAAD,Ring,Aazadi Ka Antim Aandolan Dal
+77,U,AKAKRP,Kite,All Jammu and Kashmir Republican Party
+78,U,AKBAP,Balloon,Akhil Bhartiya Aamjan Party
+79,U,AKBJHP,"Auto- Rickshaw,Cot,Scissors",Akhil Bhartiya Jharkhand Party
+80,U,AKBMP,Coconut,Akhil Bhartiya Mithila Party
+81,U,ALHP,Green Chilli,Al-Hind Party
+82,U,AMB,"Batsman,Battery Torch,Camera,Candles,Kite",Amra Bangalee
+83,U,AMP,Ceiling Fan,Adarsh Manavtawadi Party
+84,U,AMS,Coconut,Aadijan Mukti Sena
+85,U,ANC,"Bat,Candles,Cauliflower,Gas Cylinder,Kite,Sewing Machine",Ambedkar National Congress
+86,U,AOP,Pot,Aama Odisha Party
+87,U,APCP,Walking Stick,Ati Picchara party
+88,U,APM,Ring,Ambedkar People's Movement
+89,U,APoI,Coat,Ambedkarite Party of India
+90,U,APRSSP,Batsman,Andhra Pradesh Rashtra Samaikya Samithi Party
+91,U,ARP,"Bat,Batsman,Ceiling Fan,Kite",Ambedkarist Republican Party
+92,U,ARPS,"Auto- Rickshaw,Camera",Andhra Rastra Praja Samithi
+93,U,ARVP,Razor,Adarsh Rashtriya Vikas Party
+94,U,ARWP,Batsman,Akhil Rashtrawadi Party
+95,U,ASaP,Batsman,Awami Samta Party
+96,U,asdp,Pot,Dr. Ambedkar Samajvadi Democratic Party
+97,U,ASP,"Frock,Pen Stand",Ambedkar Samaj Party
+98,U,ATBP,Bat,Atulya Bharat Party
+99,U,AVIRP,"Bat,Electric Pole,Kettle",AARAKSHAN VIRODHI PARTY
+100,U,AwVP,Candles,Awami Vikas Party
+101,U,BA S D,Glass Tumbler,Bahujan Sangharshh Dal
+102,U,BaSaP,"Balloon,Walking Stick",Bhartiya  Sarvjan Party
+103,U,BaVaP,Cup &amp; Saucer,Bhartiya Vanchitsamaj Party
+104,U,BBC,Auto- Rickshaw,Bharatiya Bahujan Congress
+105,U,BBM,Cup &amp; Saucer,Bharipa Bahujan Mahasangh
+106,U,BBMP,Envelope,Bharat Bhrashtachar Mitao Party
+107,U,BBPSP,Batsman,Brihattar Bharat Prajatantra Sewa Party
+108,U,BC,"Almirah,Glass Tumbler",Bundelkhand Congress
+109,U,BCBDP,Candles,B.C.Bharata Desam Party
+110,U,BCP,BUCKET,Bhartiya Chaitanya Party
+111,U,BCUF,Chappals,B. C. United Front
+112,U,BDBRAJP,"Balloon,Ceiling Fan,Diesel Pump,Sewing Machine",Bharatiya Dr. B.R.Ambedkar Janta Party
+113,U,BED,"Auto- Rickshaw,Cauliflower",Bharatiya Ekta Dal
+114,U,BEMP,"Battery Torch,Kite",Bhartiya Ekta Manch Party
+115,U,BGTD,"Bat,BUCKET,Coconut",Bharatiya Gaon Taj Dal
+116,U,BHBP,Sewing Machine,Bharatiya Bahujan Party
+117,U,BhJaSP,Ceiling Fan,Bharti Jan Suraksha Party
+118,U,bhmm,Auto- Rickshaw,Bhrashtachar Mukti Morcha
+119,U,BhNaP,Almirah,Bharatiya Navyuvak Party
+120,U,BHNKP,Ceiling Fan,Bharatiya Nav Kranti Party
+121,U,BhNP,Black Board,Bharat Nirman Party
+122,U,bhp,Sewing Machine,Bhartiya Party
+123,U,BHPP,Battery Torch,Bharatiya Peoples Party
+124,U,BhSMP,Camera,Bharatiya Sant Mat Party
+125,U,BHSSP,Batsman,Bhartiya Satya Sangharsh Party
+126,U,BIP,Balloon,Bharatiya Inqalab Party
+127,U,bjdi,Hat,Bhartiya Janta Dal (Integrated)
+128,U,BJJD,Kite,Bhartiya Jantantrik Janata Dal
+129,U,BJKD,Candles,Bharatiya Jan Kranti Dal (Democratic)
+130,U,BJKVP,Cup &amp; Saucer,Bajjikanchal Vikas Party
+131,U,BJM,Hat,Bhartiya Jan Manch
+132,U,BJPARTY,Gas Cylinder,Bihar Janta Party
+133,U,BJSP,Coconut,Bharatiya Jawala Shakti Paksha 
+134,U,bjyp,Balloon,Bhartiya Jan Yug Party
+135,U,BKLJP,Glass Tumbler,Bharat Ki Lok Jimmedar Party
+136,U,BKP,Auto- Rickshaw,Bahujan Kranti Party (Marxwad-Ambedkarwad)
+137,U,BKPP,Television,Bharatiya Kisan Parivartan Party
+138,U,BKrD,"FLUTE,Harmonium",Bhartiya Krishak Dal
+139,U,BKSL,Diesel Pump,Bharatiya Kisan Sena Loktantrik
+140,U,BLSP,Ceiling Fan,Rashtriya Lok Samta Party
+141,U,BMF,"Almirah,Kettle,Kite",Bharatiya Momin Front
+142,U,BMNSP,Whistle,Bharatiya Mool Niwasi Samaj Party
+143,U,BMSM,Basket containing Fruits,Bharatiya Minorities Suraksha Mahasangh
+144,U,BMUP,"Air Conditioner,Cart,Cot",Bahujan Mukti Party
+145,U,BNIP,Candles,Bhartiya Naujawan Inklav Party
+146,U,BNJD,Kite,Bharatiya National Janta Dal
+147,U,BNNP,Coconut,Bharat Nav Nirman Party
+148,U,bns,Dish Antenna,Bhartiya Navjawan Sena (Paksha)
+149,U,BPC,"Gas Cylinder,Glass Tumbler",Bhartiya Pragatisheel Congress
+150,U,BRABSVP,Brush,Bharatiya Rashtriya Bahujan Samaj Vikas Party
+151,U,BRAVP,FLUTE,Braj Vikas Party
+152,U,BRMD,Television,Bharatiya Rashtriya Mazdoor Dal
+153,U,BRPI,Batsman,Bhartiya Republican Party (Insan)
+154,U,BRPP,Stool,Bharatiya Republican Paksha
+155,U,BRVP,Almirah,Bhartiya Vikas Party
+156,U,BSCP,"Coconut,Conch,FLUTE",Bhartiya Shakti Chetna Party
+157,U,BSD,Walking Stick,Bharatiya Samaj Dal
+158,U,BSDL,"Cup &amp; Saucer,Kite",Bahujan Suraksha Dal
+159,U,BSDS,Ceiling Fan,Bhartiya Shramik Dal Socialist
+160,U,BSKD,Walking Stick,Bhartiya Samajik Kranti Dal
+161,U,BSKP,Sewing Machine,Bharatiya Sarvodaya Kranti Party
+162,U,BSP(A),"Battery Torch,Diesel Pump,Sewing Machine,Table",Bahujan Samaj Party  (Ambedkar)
+163,U,BSP(K),"Candles,Sewing Machine",Bahujan Sangharsh Party (Kanshiram)
+164,U,BVA,Whistle,Bahujan Vikas Aaghadi
+165,U,BVLP,Balloon,Bharat Vishal Party
+166,U,BVM,"Basket containing Fruits,Bat",Bharat Vikas Morcha
+167,U,BYS,Candles,Bharatiya Yuva Shakti
+168,U,chp,Kite,Chhattisgarhiya Party
+169,U,CPI(ML)(L),"Auto- Rickshaw,Cup &amp; Saucer,Flag with Three Stars,Kite",Communist Party of India  (Marxist-Leninist)  (Liberation)
+170,U,CPIM,Saw,Communist Party of India (Marxist-Leninist) Red Star
+171,U,CSM,"Coconut,Whistle",Chhattisgarh Swabhiman Manch
+172,U,DABAP,Auto- Rickshaw,Dalita Bahujana Party
+173,U,DaP,Candles,Dharmarajya Paksha
+174,U,DaVP,Almirah,Dalit Vikas Party(Bharat)
+175,U,DBSP,"Batsman,Kite",Democratic Bharatiya Samaj Party
+176,U,DCP,Telephone,Democratic Congress Party
+177,U,DESEP,Stool,Democratic Secular Party
+178,U,DFBL,"Auto- Rickshaw,Ring",Desiya Forward Bloc
+179,U,DND,Shuttle,Dharam Nirpeksh Dal
+180,U,DNP,Camera,Deshbhakt Nirman Party
+181,U,DPPS,Coconut,Democratic Prajakranthi Party Secularist
+182,U,EKSP,"Cup &amp; Saucer,Walking Stick",Eklavya Samaj Party
+183,U,ESKP,Battery Torch,Ex-Sainik Kissan Party
+184,U,ETMK,Whistle,Ezhuchi Tamilargal Munnetra Kazhagam
+185,U,GaAP,"Air Conditioner,Bat,Bread,FLUTE,Iron,Whistle,Window",Gareeb Aadmi Party
+186,U,GGP,"Axe,Bat,Battery Torch,Coat,Cup &amp; Saucer,Glass Tumbler,Kite,Saw",Gondvana Gantantra Party
+187,U,GOA,Ring,Goemcarancho Otrec Astro
+188,U,grac,Candles,Gorkha Rashtriya Congress
+189,U,GRIP,Slate,Great India Party
+190,U,GSRP,Candles,Goa Su-Raj Party
+191,U,HEP,Gas Cylinder,Hindustan Ekta Party
+192,U,HiPPa,Brief Case,Hindusthan Praja Paksha
+193,U,HiSP,Telephone,Himachal Swabhiman Party
+194,U,HJP,"Almirah,Coconut,Cup &amp; Saucer,Gas Cylinder,Shuttle,Stool",Hindustan Janta Party
+195,U,hkd,Cup &amp; Saucer,Hindustan Kranti Dal
+196,U,HKRD,"BUCKET,Pot",Hindustan Krantikari Dal
+197,U,HND,"Bat,Battery Torch,Coconut",Hindusthan Nirman Dal
+198,U,HSCP,Diesel Pump,Hindustan Swaraj Congress Party
+199,U,HVD,Sewing Machine,Hindustan Vikas Dal
+200,U,IBSP,Sewing Machine,Indian Bahujan Samajwadi Party
+201,U,IBSPK,Lady Purse,Indian Bahujan Sandesh Party (Kanshiram)
+202,U,ICSP,"Television,Trumpet",Indian Christian Secular Party
+203,U,igp,Gas Cylinder,Indian Gandhiyan Party
+204,U,IJP,Gas Cylinder,Indian Justice Party
+205,U,IKL,Candles,Indian Krantikari Lehar
+206,U,ILP(AP),"Auto- Rickshaw,Candles",Indian Labour Party (Ambedkar Phule)
+207,U,INL,Iron,Indian National League
+208,U,IOP,Telephone,Indian Oceanic Party
+209,U,IPFT,Dao,Indigenousn People's Front Of Tripura
+210,U,IPGP,Kite,Indian Peoples Green Party
+211,U,IPP,Candles,Indian Peace Party
+212,U,ISSP,"Almirah,Auto- Rickshaw,Basket containing Fruits",Indian Savarn Samaj Party
+213,U,IUC,Candles,Indian Unity Centre
+214,U,IVD,Walking Stick,Inqalab Vikas Dal
+215,U,IVP,Balloon,Indians Victory Party
+216,U,JanSP,Sewing Machine,Janral Samaj Party
+217,U,JAP,Almirah,Jantantra Party
+218,U,JaRaP,Kite,Jan Raajya Party
+219,U,JaRaPa,Whistle,Jan Raksha Party
+220,U,JaSPa,Chappals,Jai Samaikyandhra Party
+221,U,JBSP,Scissors,Jai Bharat Samanta Party
+222,U,JDP,Cup &amp; Saucer,Jharkhand Disom Party
+223,U,JDR,"Almirah,Bat,Battery Torch",Janta Dal Rashtravadi
+224,U,JeSM,Walking Stick,Jamat-E-Seratul Mustakim
+225,U,JGP,Whistle,Jago Party
+226,U,JHAP,"Basket containing Fruits,BUCKET,Dao",Jharkhand Anushilan Party
+227,U,JHP,Scissors,Jai Hind Party
+228,U,jhspt,BUCKET,Jai Hind Samaj Party
+229,U,JJ,Battery Torch,Jebamani Janata
+230,U,JKM,Air Conditioner,Jawan Kisan Morcha
+231,U,JKP,Basket containing Fruits,Jharkhand Party
+232,U,JKP(N),"Basket containing Fruits,FLUTE,Kite",Jharkhand Party  (Naren)
+233,U,JM,Auto- Rickshaw,Jan Morcha
+234,U,JMBP,"Air Conditioner,Almirah,Balloon,Battery Torch,Candles,Ceiling Fan,Coconut,Electric Pole,Glass Tumbler,Green Chilli,Ice Cream,Pen Nib with Seven Rays,Ring,Table",Jai Maha Bharath Party
+235,U,JMM(U),Bow &amp; Arrow,Jharkhand Mukti Morcha  (Ulgulan)
+236,U,JND,Coconut,Jan-Nyay Dal
+237,U,JPC,Candles,Jammu & Kashmir People Conference
+238,U,JPJD,Diesel Pump,Jai Prakash Janata Dal
+239,U,JPS,"Air Conditioner,Saw",Janvadi Party(Socialist)
+240,U,JRPa,"Bat,Scissors",Janta Raj Party
+241,U,JSEP,Letter Box,Jan Shakti Ekta Party
+242,U,JSK,Telephone,Jan Sevak Party
+243,U,JSMP,Pressure Cooker,Jan Samanta Party
+244,U,JVBP,"Balloon,Grapes",Jai Vijaya Bharathi Party
+245,U,JVD,BUCKET,Jharkhand Vikas Dal
+246,U,kajp,School Bag,Kalyankari Jantantrik Party
+247,U,KAP,Batsman,Karunaadu Party
+248,U,KCVP,Auto- Rickshaw,Kannada Chalavali Vatal Paksha
+249,U,KDC,Letter Box,Kamarajar Deseeya Congress
+250,U,KMBS,Cup &amp; Saucer,Kisan Majdoor Berojgar Sangh
+251,U,KOKD,Coconut,Kosal Kranti Dal
+252,U,KS,Hat,Kalinga Sena
+253,U,KVD,Whistle,Krantikari Vikas Dal
+254,U,LB,"Candles,Slate",Lok Bharati
+255,U,LD,"Air Conditioner,Almirah,Battery Torch,Black Board,Candles,Carrot,Cauliflower,Cot,Cup &amp; Saucer,Scissors,Sewing Machine",Lok Dal
+256,U,LKJP,"Air Conditioner,Almirah,Auto- Rickshaw",Loktantrik Janata Party (Secular)
+257,U,LoRP,"FLUTE,Gas Cylinder",Loktantrik Rashrtavadi Party
+258,U,lpi,Whistle,The Lok Party of India
+259,U,LPI(V),Cup &amp; Saucer,Labour Party of India (V.V. Prasad)
+260,U,LPR,Gas Cylinder,Lok Parivartan Party(DC)
+261,U,LPSP,"Almirah,Gas Cylinder",Lokpriya Samaj Party
+262,U,LS,Almirah,Lok Shakti
+263,U,LSP,Whistle,Lok Satta Party
+264,U,LSWP,Candles,Loktantrik Samajwadi Party
+265,U,MADP,Auto- Rickshaw,Moulik Adhikar Party
+266,U,MAHP,HOCKEY &amp; BALL,Mahanwadi Party
+267,U,MaJP,Television,Manavadhikar Janshakti Party
+268,U,MAMAK,Candles,Manithaneya Makkal Katchi
+269,U,MaSP,"Almirah,Auto- Rickshaw,Ring,Scissors",Mahajana Socialist Party
+270,U,MaSPa,Almirah,Mahila Swabhiman Party
+271,U,MBCOI,Scissors,Most Backward Classes Of India
+272,U,MBT,"Balloon,Bat,Kite,Television",Majlis Bachao Tahreek
+273,U,MCO,Kite,Marxist Co-Ordination
+274,U,MCPI,Carrom Board,Marxist Communist Party of India (United)
+275,U,MD,"Auto- Rickshaw,Cup &amp; Saucer",Mahan Dal
+276,U,MDMK,Top,Marumalarchi Dravida Munnetra Kazhagam
+277,U,MDPF,Battery Torch,Manipur Democratic Peoples's Front
+278,U,MEDP,FLUTE,Megh Desham Party
+279,U,MHD,Scissors,Mahamukti Dal
+280,U,MKUP,Kite,Majdoor Kisan Union Party
+281,U,MMKA,BUCKET,Makkal Manadu Katchi
+282,U,MMM,Basket containing Fruits,Manav Mukti Morcha
+283,U,mmsp,Iron,Majlis Markaz-e-Siyasee Party
+284,U,MNDP,"Almirah,Ceiling Fan,Cup &amp; Saucer,Kite,Pot",Minorities Democratic Party
+285,U,MOP,Auto- Rickshaw,Moderate Party
+286,U,MOSP,HOCKEY &amp; BALL,Moolniwasi Samaj Party
+287,U,MPS(T),"Auto- Rickshaw,Bat,Ceiling Fan,Cup &amp; Saucer,Gas Cylinder,Scissors",Maharashtra Parivartan Sena (T)
+288,U,MVA,Gas Cylinder,Maharashtra Vikas Aghadi
+289,U,MwSP,Whistle,Manavtawadi Samaj Party
+290,U,NADP,Stethoscope,Naya Daur Party
+291,U,NAJC,Auto- Rickshaw,National Janhit Congress (AB)
+292,U,NaLP,Kettle,National Lokmat Party
+293,U,NAP,"Almirah,HOCKEY &amp; BALL",Naitik Party
+294,U,NBDP,Table,Nav Bharat Democratic Party
+295,U,NBNP,Dao,Nava Bharat National Party
+296,U,NDEP,Kite,National Development Party
+297,U,NEP,Black Board,Nagrik Ekta Party
+298,U,NIP,Cup &amp; Saucer,New India Party
+299,U,NJC,Almirah,Nehru Janhit Congress
+300,U,NLP,"Almirah,Ceiling Fan,Table",National Loktantrik Party
+301,U,NMK,Batsman,Namadhu Makkal Katchi
+302,U,NNP,Kite,Navbharat Nirman Party
+303,U,NOC,Candles,National Organisation Congress
+304,U,NP,Table,National Party
+305,U,NPT,Auto- Rickshaw,Navodyam Party
+306,U,NRSN,FLUTE,Narayani Sena
+307,U,NSBP,Candles,Nirjatita Samaj Biplabi Party
+308,U,NTP,Coat,National Tiger Party
+309,U,nuzp,Telephone,National Unionist Zamindara Party
+310,U,NYP,"Battery Torch,Candles",National Youth Party
+311,U,ojm,Kite,Odisha Jan Morcha
+312,U,PAP,Bat,Prajatantra Aadhar Party
+313,U,PBI,"FLUTE,Gas Stove","Proutist Bloc, India"
+314,U,PCHVP,Table,Paschimanchal Vikas Party
+315,U,PDS,"Battery Torch,Candles,Kite",Party for Democratic Socialism
+316,U,PECP,"Brief Case,Ceiling Fan",Peace Party
+317,U,PG,Kite,Peoples Guardian
+318,U,PGSP,Helmet,Pragatisheel Samaj Party
+319,U,PHRC,"Auto- Rickshaw,Black Board,Gas Cylinder,Pen Nib with Seven Rays",Poorvanchal Rashtriya Congress
+320,U,pjdl,"Auto- Rickshaw,Television",Prem Janata Dal
+321,U,PLP,Gas Cylinder,Punjab Labour Party
+322,U,pms,Cup &amp; Saucer,Pragatisheel Magahi Samaj
+323,U,PMSP,"Bat,Saw,Walking Stick",Pragatisheel Manav Samaj Party
+324,U,PPI,Auto- Rickshaw,Parcham Party of India
+325,U,PPIS,Candles,People's Party of India(secular)
+326,U,PPOI,"Auto- Rickshaw,Balloon,Battery Torch,Television",Pyramid Party of India
+327,U,PRCP,"Ceiling Fan,Cup &amp; Saucer,Kite,Pen Nib with Seven Rays,Sewing Machine,Television,Whistle",Prabuddha Republican Party
+328,U,PRISM,Basket containing Fruits,Prism
+329,U,PRSP,BUCKET,Prajatantrik Samadhan Party
+330,U,PSJP,Kite,Parivartan Samaj Party
+331,U,PSS,"Almirah,Bread",Proutist Sarva Samaj
+332,U,PT,Television,Puthiya Tamilagam
+333,U,PWPI,"Auto- Rickshaw,Cup &amp; Saucer",Peasants And Workers Party of India
+334,U,QED,Glass Tumbler,Qaumi Ekta Dal
+335,U,RaAD,Kite,Rashtriya Ambedkar Dal
+336,U,RaBaP,Pressure Cooker,Rashtriya Bandhutwa Party
+337,U,RAC,Cup &amp; Saucer,Rashtriya Congress (Babu Jagjivanram)
+338,U,RaCP,Sewing Machine,Rashtriya Congress(J) Party
+339,U,RADP,Carrot,Rashtriya Deshaj Party
+340,U,RAHM,FLUTE,Rashtriya Ahinsa Manch
+341,U,RAIM,Whistle,Rashtriya Indepndent Morcha
+342,U,RaIP,"Grapes,Stethoscope",Rastriya Insaaf Party
+343,U,RaJPa,Dish Antenna,Rashtriya Jankranti Party
+344,U,RaJSP,"Candles,Electric Pole",Rashtriya Janadhikar Suraksha Party
+345,U,RAKP,Scissors,Rashtriya Karmyog Party
+346,U,RaMSP,Candles,Rashtriya Manav samman Party
+347,U,RAPa,Green Chilli,Rashtriya Aam Party
+348,U,raup,Cauliflower,Rashtriya Uttarakhand Party
+349,U,ravp,Scissors,Rajnaitik Vikalp Party
+350,U,RBC,Auto- Rickshaw,Republican Backward Congress
+351,U,RBCP,Battery Torch,Rashtriya Bahujan Congress Party
+352,U,RBHP,Kite,Rashtriya Bahujan Hitay Party
+353,U,RBS,"Auto- Rickshaw,Whistle",Republican Bahujan Sena
+354,U,RCMP,"CARPET,Cup &amp; Saucer",Rani Chennamma Party
+355,U,RDHP,Electric Pole,Rajyadhikara Party
+356,U,rdsc,"Auto- Rickshaw,Table Lamp",Regional Democratic Secular Congress
+357,U,REP,Auto- Rickshaw,Rashtriya Ekta Party
+358,U,RGD,Batsman,Rashtriya Garib Dal
+359,U,RGOP,Cup &amp; Saucer,Rashtriya Gondvana Party
+360,U,RJ,Scissors,Rashtriya Janmorcha
+361,U,RJAP,Sewing Machine,Rashtriya Janadhikar Party
+362,U,RJAVP,Electric Pole,Rashtriya Jatigat Aarakshan Virodhi Party
+363,U,RJJM,Ceiling Fan,Rashtriya Jan-Jagram Morcha
+364,U,RJM,Candles,Rashtriya Jankranti Morcha
+365,U,RJNP,HOCKEY &amp; BALL,Rashtriya Janasachetan Party (R.J.P.)
+366,U,RJP(E),Glass Tumbler,Rashtriya Janshakti Party(Eklavya)
+367,U,RJPK,Battery Torch,Rashtriya Janwadi Party (Krantikari)
+368,U,RJVP,Gas Cylinder,Rajasthan Vikas Party
+369,U,RKEP,Gas Cylinder,Rashtriya Komi Ekta Party
+370,U,RKSP,"Air Conditioner,Auto- Rickshaw,Camera,FLUTE,Scissors,Telephone",Rashtriya Krantikari Samajwadi Party
+371,U,RMGP,"FLUTE,Stethoscope",Rashtriya mahan Gantantra Party
+372,U,RMOP,BUCKET,RASHTRIYA MORCHA PARTY
+373,U,RND,"Almirah,Battery Torch",Rashtriya Naujawan Dal
+374,U,RP(K),"Auto- Rickshaw,BUCKET,Electric Pole,Ring,Sewing Machine",Republican Paksha (Khoripa)
+375,U,RPC(S),Gas Cylinder,Rashtriya Praja Congress  (Secular)
+376,U,RPD,Kite,Rashtriya Parivartan Dal
+377,U,RPI,"Candles,Kite,Letter Box,Ring,Sewing Machine,Television",Republican Party of India
+378,U,RPI(A),Sewing Machine,Republican Party of India (A)
+379,U,RPI(KH),"Auto- Rickshaw,Battery Torch,Candles,Cup &amp; Saucer,Electric Pole,Kite",Republican Party of India (Khobragade)
+380,U,RPIE,Battery Torch,Republican Party of India Ektavadi
+381,U,RPP(LB),Sewing Machine,"Rashtrawadi Parivartan Party (L.B,)"
+382,U,RPS,Gas Cylinder,Rayalaseema Parirakshana Samithi
+383,U,RRP,Hat,Rashtriya Rashtrawadi Party
+384,U,RrSP,Coconut,Rashtriya Sarvajan Party
+385,U,RsAD,Walking Stick,Rashtriya Apna Dal
+386,U,RSD,FLUTE,Rashtriya Sawarn Dal
+387,U,RshJP,Walking Stick,Rashtriya Janshanti Party
+388,U,RSMD,"Grapes,Kite,Sewing Machine",Rashtriya Samanta Dal
+389,U,RSOSP,Kettle,Rashtriya Shoshit Samaj Party
+390,U,RSPK(B),Gas Cylinder,Revolutionary Socialist Party of Kerala  (Bolshevik) RSP.B
+391,U,RSPS,"Camera,Cauliflower,Cup &amp; Saucer",Rashtriya Samaj Paksha
+392,U,RSSDP,Cup &amp; Saucer,Rashtriya Sant Sandesh Party
+393,U,RSWD,Almirah,Rashtra Sewa Dal
+394,U,RtJP,Candles,Rashtriya Janpriya Party
+395,U,RTKP,Stethoscope,Rashtriya Kranti Party
+396,U,RtrJP,Scissors,Rashtriya Janta Party
+397,U,RUC,"Balloon,Kettle,Saw,Sewing Machine,Walking Stick",Rashtriya Ulama Council
+398,U,RVLP,Table Lamp,RASHTRIYA VIKLANG PARTY
+399,U,RVMP,Camera,Rashtriya Vikas Manch Party
+400,U,RVNP,"Auto- Rickshaw,Battery Torch,Ceiling Fan,Ring",Rashtravadi Janata Party
+401,U,RVP,Gas Cylinder,Rashtriya Vikas Party
+402,U,RWSP,Whistle,Rashtrawadi Samaj Party
+403,U,S(J),"Auto- Rickshaw,Gas Stove",Swaraj (J)
+404,U,SaBP,Cup &amp; Saucer,Sankhyanupati Bhagidari Party
+405,U,SAD(M),"BUCKET,HOCKEY &amp; BALL,Kite,Sewing Machine",Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)
+406,U,SaDa,Frying Pan,Sarvshreshth Dal
+407,U,SAMO,Battery Torch,Samruddha Odisha
+408,U,SamSP,Electric Pole,Samata Samadhan Party
+409,U,SAP,"Air Conditioner,Almirah,Battery Torch,Candles,Scissors",Samata Party
+410,U,SARP,Scissors,Samtawadi Republican Party
+411,U,SaSaP,Cup &amp; Saucer,Samajwadi Samaj Party
+412,U,SaVP,Trumpet,Samta Vikas Party
+413,U,SBSP,"Ring,Walking Stick",Suheldev Bhartiya Samaj Party
+414,U,SDP,"Auto- Rickshaw,Candles",Socialistic Democratic Party
+415,U,SDPI,"Auto- Rickshaw,Ceiling Fan",SOCIAL DEMOCRATIC PARTY OF INDIA
+416,U,SHP,Auto- Rickshaw,Shramajeevi Party
+417,U,shsap,Almirah,Shoshit Sandesh Party
+418,U,SJD,Ring,Socialist Janata (Democratic)
+419,U,SJP(R),"Battery Torch,Diesel Pump",Samajwadi Janata Party (Rashtriya)
+420,U,SJPA,Gas Cylinder,Sarva Janata Party
+421,U,skd,Scissors,Samata Kranti Dal
+422,U,SKLP,Balloon,Sarvajan Kalyan Loktantrik Party
+423,U,SKM,Table Lamp,Sikkim Krantikari Morcha
+424,U,SLAP,Bat,Social Action Party
+425,U,SLP(L),BUCKET,Socialist Party (Lohia)
+426,U,SP(I),"Air Conditioner,Battery Torch,Dolli,Kite,Television",Socialist Party (India)
+427,U,SPP,"Bat,Batsman,Bottle",Samyak Parivartan Party
+428,U,sps,"Bat,Kite",Samaikyandhra Parirakshana Samithi
+429,U,SRP,"Dish Antenna,Telephone",Socialist Republican Party
+430,U,SSAD,Chappals,Sanyukt Samajwadi Dal
+431,U,SSBD,Candles,Shakti Sena (Bharat Desh)
+432,U,SSD,"Carrot,Saw",Shoshit Samaj Dal
+433,U,SSKP,Auto- Rickshaw,Sarva Samaj Kalyan Party
+434,U,SSPD,Candles,SARVAJAN SAMAJ PARTY (D)
+435,U,ssrd,Grapes,Sanatan Sanskriti Raksha Dal
+436,U,STR,Electric Pole,Samaikya Telugu Rajyam
+437,U,SUCI,"Battery Torch,Glass Tumbler,Kite",SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+438,U,SVPP,Kite,Sardar Vallabhbhai Patel Party
+439,U,SVRP,Sewing Machine,Shivrajya Party
+440,U,SWJP,"Battery Torch,Black Board",Samajwadi Jan Parishad
+441,U,SWP,Whistle,Swabhimani Paksha
+442,U,SWPI,"Battery Torch,Gas Stove,Pen Nib with Seven Rays",Swarajya Party Of India
+443,U,SWSP,Pressure Cooker,Swatantra Samaj Party
+444,U,TECPI,Auto- Rickshaw,Telangana Communist Party of India
+445,U,TLP,Gas Cylinder,Telangana Loksatta Party
+446,U,TNMC,"Frying Pan,Pen Nib with Seven Rays",Tamil Nadu Makkal Congress
+447,U,TPGC,Candles,Tripura Pragatishil Gramin Congress
+448,U,TRMRPPI,Harmonium,The Religion of Man Revolving Political Party of India
+449,U,TTNC,Batsman,Thrinamool Tamil Nadu Congress
+450,U,UCPI,"Dao,Ring",United Communist Party of India
+451,U,UMK,Gas Cylinder,Ulzaipali Makkal Katchy
+452,U,UPI,Ceiling Fan,Union Party of India
+453,U,UPP,Scissors,UTTARAKHAND PARIVARTAN PARTY
+454,U,UPRP,Sewing Machine,Uttar Pradesh Republican Party
+455,U,VAJP,Walking Stick,Vanchit Jamat Party
+456,U,VCK,Ring,Viduthalai Chiruthaigal Katchi
+457,U,VHS,Batsman,Vishva Hindustani Sangathan
+458,U,VIP,Gas Cylinder,VANCHITSAMAJ INSAAF PARTY
+459,U,VJCP,Chappals,Vichara Jagruthi Congress Paksha
+460,U,VoP,Candles,Voters Party
+461,U,VSP,Gas Stove,Vishva SHakti Party
+462,U,WPOI,"Auto- Rickshaw,Battery Torch,BUCKET,Ceiling Fan,Gas Cylinder,Kite,Ring,Scissors",Welfare Party Of India
+463,U,YSRCP,Ceiling Fan,Yuvajana Sramika Rythu Congress Party
+464,U,YuS,Candles,Yuva Sarkar
+465,Z,IND,"Air Conditioner,Almirah,Auto- Rickshaw,Balloon,Basket containing Fruits,Bat,Batsman,Battery Torch,BELT,Black Board,Bottle,Bread,Brief Case,Brush,BUCKET,Cake, CALCULATOR, Ca Board,Carrot,Cauliflowe
+r,Ceiling
+Fan,Chappals,CHESS
+BOARD,Coat,Coconut,
+Cot,Cup &amp;
+Saucer,CUTTING
+PLIERS,Dao,Diesel
+Pump,Dish
+Antenna,Dolli,Electric
+Pole,Envelope,FLUTE,F
+rock,Frying
+Pan,Funnel,Gas
+Cylinder,Gas
+Stove,Glass
+Tumbler,Grapes,Green
+Chilli,Harmonium,Hat,H
+elmet,HOCKEY &amp;
+BALL,Ice
+Cream,Iron,Kettle,Kite,L
+ady Purse,Letter
+Box,Mixee,Nail
+Cutter,Neck Tie,Pen Nib
+with Seven Rays,Pen
+Stand,PENCIL
+SHARPNER,Plate
+Stand,Pot,Pressure
+Cooker,Razor,Refrigerat
+or,Ring,Saw,School
+Bag,Scissors,Sewing
+Machine,Shuttle,Slate,S
+tethoscope,Stool,Table, Table
+Lamp,Telephone,Televis
+ion,Tent,Tooth
+Brush,Trumpet,Violin,W
+alking
+Stick,Whistle,Window Case,Brush,BUCKET,Cake,CALCULATOR,Camera,Candles,Car,CARPET,Carrom Board,Carrot,Cauliflower,Ceiling Fan,Chappals,CHESS BOARD,Coat,Coconut,Cot,Cup &amp; Saucer,CUTTING PLIERS,Dao,Diesel Pump,Dish Antenna,Dolli,Electric Pole,Envelope,FLUTE,Frock,Frying Pan,Funnel,Gas Cylinder,Gas Stove,Glass Tumbler,Grapes,Green Chilli,Harmonium,Hat,Helmet,HOCKEY &amp; BALL,Ice Cream,Iron,Kettle,Kite,Lady Purse,Letter Box,Mixee,Nail Cutter,Neck Tie,Pen Nib with Seven Rays,Pen Stand,PENCIL SHARPNER,Plate Stand,Pot,Pressure Cooker,Razor,Refrigerator,Ring,Saw,School Bag,Scissors,Sewing Machine,Shuttle,Slate,Stethoscope,Stool,Table,Table Lamp,Telephone,Television,Tent,Tooth Brush,Trumpet,Violin,Walking Stick,Whistle,Window",Independent
+466,Z1,NOTA,NOTA,None of the Above

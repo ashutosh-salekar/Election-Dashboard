@@ -1,0 +1,544 @@
+SL. NO.,STATE,CONSTITUENCY,WINNER NAME,CATEGORY,SOCIAL CATEGORY,PARTY,PARTY SYMBOL,MARGIN,SEX
+1,Andaman & Nicobar Islands,Andaman & Nicobar Islands,KULDEEP RAI SHARMA,GEN,GENERAL,Indian National Congress,Hand,1407,MALE
+2,Andhra Pradesh,Kakinada,VANGA GEETHAVISWANATH,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,25738,FEMALE
+3,Andhra Pradesh,Amalapuram ,CHINTA ANURADHA,SC,SC,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,39795,FEMALE
+4,Andhra Pradesh,Rajahmundry,MARGANI BHARAT,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,121634,MALE
+5,Andhra Pradesh,Narsapuram,KANUMURU RAGHU RAMA KRISHNA RAJU,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,32676,MALE
+6,Andhra Pradesh,Eluru ,KOTAGIRI SRIDHAR,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,165925,MALE
+7,Andhra Pradesh,Machilipatnam ,BALASHOWRY VALLABHANENI,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,60238,MALE
+8,Andhra Pradesh,Vijayawada,KESINENI SRINIVAS (NANI),GEN,GENERAL,Telugu Desam,Bicycle,8726,MALE
+9,Andhra Pradesh,Guntur,Jayadev Galla,GEN,GENERAL,Telugu Desam,Bicycle,4205,MALE
+10,Andhra Pradesh,Narasaraopet,LAVU SRI KRISHNA DEVARAYALU,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,154002,MALE
+11,Andhra Pradesh,Bapatla ,NANDIGAM SURESH,SC,SC,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,16065,MALE
+12,Andhra Pradesh,Ongole ,MAGUNTA SREENIVASULU REDDY,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,214851,MALE
+13,Andhra Pradesh,Nandyal,POCHA . BRAHMANANDA REDDY,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,250119,MALE
+14,Andhra Pradesh,Kurnool,AYUSHMAN DOCTOR SANJEEV KUMAR,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,149067,MALE
+15,Andhra Pradesh,Anantapur,TALARI RANGAIAH,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,141428,MALE
+16,Andhra Pradesh,Hindupur,KURUVA GORANTLA MADHAV,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,140748,MALE
+17,Andhra Pradesh,Kadapa,Y.S.Avinash Reddy,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,380726,MALE
+18,Andhra Pradesh,Nellore,Adala Prabhakara Reddy,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,148571,MALE
+19,Andhra Pradesh,Tirupati ,Balli Durga Prasad Rao,SC,SC,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,228376,MALE
+20,Andhra Pradesh,Rajampet,P.V.MIDHUN REDDY,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,268284,MALE
+21,Andhra Pradesh,Chittoor ,N. REDDEPPA,SC,SC,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,137271,MALE
+22,Andhra Pradesh,Aruku ,GODDETI. MADHAVI,ST,ST,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,224089,FEMALE
+23,Andhra Pradesh,Srikakulam,KINJARAPU RAM MOHAN NAIDU,GEN,GENERAL,Telugu Desam,Bicycle,6653,MALE
+24,Andhra Pradesh,Vizianagaram,Bellana Chandra Sekhar,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,48036,MALE
+25,Andhra Pradesh,Visakhapatnam,M V V SATYANARAYANA,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,4414,MALE
+26,Andhra Pradesh,Anakapalli,Dr.Beesetti Venkata Satyavathi,GEN,GENERAL,Yuvajana Sramika Rythu Congress Party,Ceiling Fan,89192,FEMALE
+27,Arunachal Pradesh,ARUNACHAL WEST,KIREN RIJIJU,GEN,ST,Bharatiya Janata Party,Lotus,174843,MALE
+28,Arunachal Pradesh,ARUNACHAL EAST,Tapir Gao,GEN,ST,Bharatiya Janata Party,Lotus,69948,MALE
+29,Assam,Kaliabor,Gaurav Gogoi,GEN,GENERAL,Indian National Congress,Hand,209994,MALE
+30,Assam,Jorhat,TOPON KUMAR GOGOI,GEN,GENERAL,Bharatiya Janata Party,Lotus,82653,MALE
+31,Assam,Dibrugarh,RAMESWAR TELI,GEN,GENERAL,Bharatiya Janata Party,Lotus,364566,MALE
+32,Assam,Lakhimpur,PRADAN BARUAH,GEN,ST,Bharatiya Janata Party,Lotus,350551,MALE
+33,Assam,Karimganj ,KRIPANATH MALLAH,SC,SC,Bharatiya Janata Party,Lotus,38389,MALE
+34,Assam,Silchar,RAJDEEP ROY,GEN,GENERAL,Bharatiya Janata Party,Lotus,81596,MALE
+35,Assam,Autonomous District,HOREN SING BEY,ST,ST,Bharatiya Janata Party,Lotus,239626,MALE
+36,Assam,Dhubri,BADRUDDIN AJMAL,GEN,GENERAL,All India United Democratic Front,Lock and Key,226258,MALE
+37,Assam,Kokrajhar,Naba Kumar Sarania,ST,ST,Independent,Battery Torch,37786,MALE
+38,Assam,Barpeta,Abdul Khaleque,GEN,GENERAL,Indian National Congress,Hand,140307,MALE
+39,Assam,Gauhati,QUEEN OJA,GEN,GENERAL,Bharatiya Janata Party,Lotus,345606,FEMALE
+40,Assam,Mangaldoi,DILIP SAIKIA,GEN,GENERAL,Bharatiya Janata Party,Lotus,138545,MALE
+41,Assam,Tezpur,PALLAB LOCHAN DAS,GEN,GENERAL,Bharatiya Janata Party,Lotus,242841,MALE
+42,Assam,Nowgong,Pradyut Bordoloi,GEN,GENERAL,Indian National Congress,Hand,16752,MALE
+43,Bihar,Nalanda,Kaushlendra Kumar,GEN,GENERAL,Janata Dal  (United),Arrow,256137,MALE
+44,Bihar,Patna Sahib,RAVI SHANKAR PRASAD,GEN,GENERAL,Bharatiya Janata Party,Lotus,284657,MALE
+45,Bihar,Pataliputra,RAM KRIPAL YADAV,GEN,GENERAL,Bharatiya Janata Party,Lotus,39321,MALE
+46,Bihar,Arrah,R. K. Singh,GEN,GENERAL,Bharatiya Janata Party,Lotus,147285,MALE
+47,Bihar,Buxar,Ashwini Kumar Choubey,GEN,GENERAL,Bharatiya Janata Party,Lotus,117609,MALE
+48,Bihar,Valmiki Nagar,BAIDYANATH PRASAD MAHTO,GEN,GENERAL,Janata Dal  (United),Arrow,354616,MALE
+49,Bihar,Paschim Champaran,DR. SANJAY JAISWAL,GEN,GENERAL,Bharatiya Janata Party,Lotus,293906,MALE
+50,Bihar,Sasaram (SC),CHHEDI PASWAN,SC,SC,Bharatiya Janata Party,Lotus,165745,MALE
+51,Bihar,Purvi Champaran,RADHA MOHAN SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,293648,MALE
+52,Bihar,Karakat,MAHABALI SINGH,GEN,GENERAL,Janata Dal  (United),Arrow,84542,MALE
+53,Bihar,Sheohar,RAMA DEVI,GEN,GENERAL,Bharatiya Janata Party,Lotus,340360,FEMALE
+54,Bihar,Jahanabad,CHANDESHWAR PRASAD,GEN,GENERAL,Janata Dal  (United),Arrow,1751,MALE
+55,Bihar,Sitamarhi,Sunil Kumar Pintu,GEN,GENERAL,Janata Dal  (United),Arrow,250539,MALE
+56,Bihar,Aurangabad,SUSHIL KUMAR SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,70552,MALE
+57,Bihar,Gaya (SC),Vijay Kumar,SC,SC,Janata Dal  (United),Arrow,152426,MALE
+58,Bihar,Madhubani,ASHOK KUMAR YADAV,GEN,GENERAL,Bharatiya Janata Party,Lotus,454940,MALE
+59,Bihar,Nawada,Chandan Singh,GEN,GENERAL,Lok Jan Shakti Party,Bungalow,148072,MALE
+60,Bihar,Jhanjharpur,Ramprit Mandal,GEN,GENERAL,Janata Dal  (United),Arrow,322951,MALE
+61,Bihar,Jamui (SC),CHIRAG KUMAR PASWAN,SC,SC,Lok Jan Shakti Party,Bungalow,241049,MALE
+62,Bihar,Supaul,Dileshwar Kamait,GEN,GENERAL,Janata Dal  (United),Arrow,266853,MALE
+63,Bihar,Araria,PRADEEP KUMAR SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,137241,MALE
+64,Bihar,Kishanganj,Dr. Mohammad Jawed,GEN,GENERAL,Indian National Congress,Hand,34466,MALE
+65,Bihar,Katihar,DULAL CHANDRA GOSWAMI,GEN,GENERAL,Janata Dal  (United),Arrow,57203,MALE
+66,Bihar,Purnia,SANTOSH KUMAR,GEN,GENERAL,Janata Dal  (United),Arrow,263461,MALE
+67,Bihar,Madhepura,Dinesh Chandra Yadav,GEN,GENERAL,Janata Dal  (United),Arrow,301527,MALE
+68,Bihar,Darbhanga,Gopal Jee Thakur,GEN,GENERAL,Bharatiya Janata Party,Lotus,267979,MALE
+69,Bihar,Muzaffarpur,Ajay Nishad,GEN,GENERAL,Bharatiya Janata Party,Lotus,409988,MALE
+70,Bihar,Vaishali,Veena Devi (W/o Dinesh Prasad Singh),GEN,GENERAL,Lok Jan Shakti Party,Bungalow,234584,FEMALE
+71,Bihar,Gopalganj (SC),DR. ALOK KUMAR SUMAN,SC,SC,Janata Dal  (United),Arrow,286434,MALE
+72,Bihar,Siwan,Kavita Singh,GEN,GENERAL,Janata Dal  (United),Arrow,116958,FEMALE
+73,Bihar,Maharajganj,"Janardan Singh 'Sigriwal""",GEN,GENERAL,Bharatiya Janata Party,Lotus,230772,MALE
+74,Bihar,Saran,Rajiv Pratap Rudy,GEN,GENERAL,Bharatiya Janata Party,Lotus,138411,MALE
+75,Bihar,Hajipur (SC),PASHU PATI KUMAR PARAS,SC,SC,Lok Jan Shakti Party,Bungalow,205449,MALE
+76,Bihar,Ujiarpur,Nityanand Rai,GEN,GENERAL,Bharatiya Janata Party,Lotus,277278,MALE
+77,Bihar,Samastipur (SC),Ramchandra Paswan,SC,SC,Lok Jan Shakti Party,Bungalow,251643,MALE
+78,Bihar,Begusarai,Giriraj Singh,GEN,GENERAL,Bharatiya Janata Party,Lotus,422217,MALE
+79,Bihar,Khagaria,Choudhary Mehboob Ali Kaiser,GEN,GENERAL,Lok Jan Shakti Party,Bungalow,248570,MALE
+80,Bihar,Bhagalpur,AJAY KUMAR MANDAL,GEN,GENERAL,Janata Dal  (United),Arrow,277630,MALE
+81,Bihar,Banka,GIRIDHARI YADAV,GEN,GENERAL,Janata Dal  (United),Arrow,200532,MALE
+82,Bihar,Munger,RAJIV RANJAN SINGH ALIAS LALAN SINGH,GEN,GENERAL,Janata Dal  (United),Arrow,167937,MALE
+83,Chandigarh,CHANDIGARH,KIRRON KHER,GEN,GENERAL,Bharatiya Janata Party,Lotus,46970,FEMALE
+84,Chhattisgarh,SARGUJA,Renuka Singh Saruta,ST,ST,Bharatiya Janata Party,Lotus,157873,FEMALE
+85,Chhattisgarh,RAIGARH,GOMATI SAI,ST,ST,Bharatiya Janata Party,Lotus,66027,FEMALE
+86,Chhattisgarh,JANJGIR-CHAMPA,GUHARAM AJGALLEY,SC,SC,Bharatiya Janata Party,Lotus,83255,MALE
+87,Chhattisgarh,KORBA,JYOTSNA CHARANDAS MAHANT,GEN,GENERAL,Indian National Congress,Hand,26249,FEMALE
+88,Chhattisgarh,BILASPUR,ARUN SAO,GEN,GENERAL,Bharatiya Janata Party,Lotus,141763,MALE
+89,Chhattisgarh,RAJNANDGAON,SANTOSH PANDEY,GEN,GENERAL,Bharatiya Janata Party,Lotus,111966,MALE
+90,Chhattisgarh,DURG,VIJAY BAGHEL,GEN,GENERAL,Bharatiya Janata Party,Lotus,391978,MALE
+91,Chhattisgarh,RAIPUR,Sunil Kumar Soni,GEN,GENERAL,Bharatiya Janata Party,Lotus,348238,MALE
+92,Chhattisgarh,MAHASAMUND,CHUNNI LAL SAHU,GEN,GENERAL,Bharatiya Janata Party,Lotus,90511,MALE
+93,Chhattisgarh,BASTAR,DEEPAK BAIJ,ST,ST,Indian National Congress,Hand,38982,MALE
+94,Chhattisgarh,KANKER,MOHAN MANDAVI,ST,ST,Bharatiya Janata Party,Lotus,6914,MALE
+95,Dadra & Nagar Haveli,Dadra And Nagar Haveli,DELKAR MOHANBHAI SANJIBHAI,ST,ST,Independent,Batsman,9001,MALE
+96,Daman & Diu,Daman & diu,LALUBHAI BABUBHAI PATEL,GEN,GENERAL,Bharatiya Janata Party,Lotus,9942,MALE
+97,Goa,North Goa,SHRIPAD YESSO NAIK,GEN,GENERAL,Bharatiya Janata Party,Lotus,80247,MALE
+98,Goa,South Goa,COSME FRANCISCO CAITANO SARDINHA,GEN,GENERAL,Indian National Congress,Hand,9755,MALE
+99,Gujarat,Dahod,JASHVANTSINH SUMANBHAI BHABHOR,ST,ST,Bharatiya Janata Party,Lotus,127596,MALE
+100,Gujarat,Vadodara,RANJANBEN BHATT,GEN,GENERAL,Bharatiya Janata Party,Lotus,589177,FEMALE
+101,Gujarat,Chhota Udaipur,RATHVA GITABEN VAJESINGBHAI,ST,ST,Bharatiya Janata Party,Lotus,377943,FEMALE
+102,Gujarat,Bharuch,Mansukhbhai Dhanjibhai Vasava,GEN,ST,Bharatiya Janata Party,Lotus,334214,MALE
+103,Gujarat,Bardoli,PARBHUBHAI NAGARBHAI VASAVA,ST,ST,Bharatiya Janata Party,Lotus,215447,MALE
+104,Gujarat,Surat,Darshana Vikram Jardosh,GEN,GENERAL,Bharatiya Janata Party,Lotus,548230,FEMALE
+105,Gujarat,Navsari,C. R. Patil,GEN,GENERAL,Bharatiya Janata Party,Lotus,689668,MALE
+106,Gujarat,Valsad,Dr.K.C.PATEL,ST,ST,Bharatiya Janata Party,Lotus,353797,MALE
+107,Gujarat,Kachchh,CHAVDA VINOD LAKHAMSHI,SC,SC,Bharatiya Janata Party,Lotus,305513,MALE
+108,Gujarat,Banaskantha,PARBATBHAI SAVABHAI PATEL,GEN,GENERAL,Bharatiya Janata Party,Lotus,368296,MALE
+109,Gujarat,Patan,DABHI BHARATSINHJI SHANKARJI,GEN,GENERAL,Bharatiya Janata Party,Lotus,193879,MALE
+110,Gujarat,Mahesana,SHARDABEN ANILBHAI PATEL,GEN,GENERAL,Bharatiya Janata Party,Lotus,281519,FEMALE
+111,Gujarat,Sabarkantha,RATHOD DIPSINH SHANKARSINH,GEN,GENERAL,Bharatiya Janata Party,Lotus,268986,MALE
+112,Gujarat,Gandhinagar,AMIT SHAH,GEN,GENERAL,Bharatiya Janata Party,Lotus,557014,MALE
+113,Gujarat,Ahmedabad East,Patel Hasmukhbhai Somabhai,GEN,GENERAL,Bharatiya Janata Party,Lotus,434330,MALE
+114,Gujarat,Ahmedabad West,DR. KIRIT P. SOLANKI,SC,SC,Bharatiya Janata Party,Lotus,321546,MALE
+115,Gujarat,Surendranagar,Dr. MUNJAPARA MAHENDRABHAI,GEN,GENERAL,Bharatiya Janata Party,Lotus,277437,MALE
+116,Gujarat,Rajkot,KUNDARIA MOHANBHAI KALYANJIBHAI,GEN,GENERAL,Bharatiya Janata Party,Lotus,368407,MALE
+117,Gujarat,Porbandar,RAMESHBHAI LAVJIBHAI DHADUK,GEN,GENERAL,Bharatiya Janata Party,Lotus,229823,MALE
+118,Gujarat,Jamnagar,POONAMBEN HEMATBHAI MAADAM,GEN,GENERAL,Bharatiya Janata Party,Lotus,236804,FEMALE
+119,Gujarat,Junagadh,CHUDASAMA RAJESHBHAI NARANBHAI,GEN,GENERAL,Bharatiya Janata Party,Lotus,150211,MALE
+120,Gujarat,Amreli,Kachhadiya Naranbhai Bhikhabhai,GEN,GENERAL,Bharatiya Janata Party,Lotus,201431,MALE
+121,Gujarat,Bhavnagar,DR.BHARATIBEN DHIRUBHAI SHIYAL,GEN,GENERAL,Bharatiya Janata Party,Lotus,329519,FEMALE
+122,Gujarat,Anand,PATEL MITESH RAMESHBHAI (BAKABHAI),GEN,GENERAL,Bharatiya Janata Party,Lotus,197718,MALE
+123,Gujarat,Kheda,Chauhan Devusinh,GEN,GENERAL,Bharatiya Janata Party,Lotus,367145,MALE
+124,Gujarat,Panchmahal,Ratansinh Magansinh Rathod,GEN,GENERAL,Bharatiya Janata Party,Lotus,428541,MALE
+125,Haryana,Ambala,RATTAN LAL KATARIA,SC,SC,Bharatiya Janata Party,Lotus,342345,MALE
+126,Haryana,Kurukshetra,NAYAB SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,384591,MALE
+127,Haryana,Sirsa,Sunita Duggal,SC,SC,Bharatiya Janata Party,Lotus,309918,FEMALE
+128,Haryana,Hisar,BRIJENDRA SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,314068,MALE
+129,Haryana,Karnal,Sanjay Bhatia,GEN,GENERAL,Bharatiya Janata Party,Lotus,656142,MALE
+130,Haryana,Sonipat,RAMESH CHANDER KAUSHIK,GEN,GENERAL,Bharatiya Janata Party,Lotus,164864,MALE
+131,Haryana,Rohtak,ARVIND KUMAR SHARMA,GEN,GENERAL,Bharatiya Janata Party,Lotus,7503,MALE
+132,Haryana,Bhiwani-Mahendragarh,Dharambir Singh S/o Bhale Ram,GEN,GENERAL,Bharatiya Janata Party,Lotus,444463,MALE
+133,Haryana,Gurgaon,RAO INDERJIT SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,386256,MALE
+134,Haryana,Faridabad,KRISHAN PAL,GEN,GENERAL,Bharatiya Janata Party,Lotus,638239,MALE
+135,Himachal Pradesh,Kangra,Kishan Kapoor,GEN,ST,Bharatiya Janata Party,Lotus,477623,MALE
+136,Himachal Pradesh,Mandi,RAM SWAROOP SHARMA,GEN,GENERAL,Bharatiya Janata Party,Lotus,405459,MALE
+137,Himachal Pradesh,Hamirpur,ANURAG SINGH THAKUR,GEN,GENERAL,Bharatiya Janata Party,Lotus,399572,MALE
+138,Himachal Pradesh,Shimla,SURESH KUMAR KASHYAP,SC,SC,Bharatiya Janata Party,Lotus,327514,MALE
+139,Jammu & Kashmir,Baramulla,MOHAMMAD AKBAR LONE,GEN,GENERAL,Jammu & Kashmir National Conference,Plough,30233,MALE
+140,Jammu & Kashmir,Srinagar,Farooq Abdullah,GEN,GENERAL,Jammu & Kashmir National Conference,Plough,70050,MALE
+141,Jammu & Kashmir,Anantnag,HASNAIN MASOODI,GEN,GENERAL,Jammu & Kashmir National Conference,Plough,6676,MALE
+142,Jammu & Kashmir,Ladakh,Jamyang Tsering Namgyal,GEN,ST,Bharatiya Janata Party,Lotus,10930,MALE
+143,Jammu & Kashmir,Udhampur,DR. JITENDRA SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,357252,MALE
+144,Jammu & Kashmir,Jammu,Jugal Kishore,GEN,GENERAL,Bharatiya Janata Party,Lotus,302875,MALE
+145,Jharkhand,Rajmahal,VIJAY KUMAR HANSDAK,ST,ST,Jharkhand Mukti Morcha,Bow & Arrow,99195,MALE
+146,Jharkhand,Dumka,SUNIL SOREN,ST,ST,Bharatiya Janata Party,Lotus,47590,MALE
+147,Jharkhand,Godda,Nishikant Dubey,GEN,GENERAL,Bharatiya Janata Party,Lotus,184227,MALE
+148,Jharkhand,Chatra,SUNIL KUMAR SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,377871,MALE
+149,Jharkhand,Kodarma,ANNPURNA DEVI,GEN,GENERAL,Bharatiya Janata Party,Lotus,455600,FEMALE
+150,Jharkhand,Giridih,Chandra Prakash Choudhary,GEN,GENERAL,AJSU Party,Banana,248347,MALE
+151,Jharkhand,Dhanbad,PASHUPATI NATH SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,486194,MALE
+152,Jharkhand,Ranchi,SANJAY SETH,GEN,GENERAL,Bharatiya Janata Party,Lotus,282780,MALE
+153,Jharkhand,Jamshedpur,Bidyut Baran Mahato,GEN,GENERAL,Bharatiya Janata Party,Lotus,302090,MALE
+154,Jharkhand,Singhbhum,GEETA KORA,ST,ST,Indian National Congress,Hand,72155,FEMALE
+155,Jharkhand,Khunti,ARJUN MUNDA,ST,ST,Bharatiya Janata Party,Lotus,1445,MALE
+156,Jharkhand,Lohardaga,SUDARSHAN BHAGAT,ST,ST,Bharatiya Janata Party,Lotus,10363,MALE
+157,Jharkhand,Palamau,VISHNU DAYAL RAM,SC,SC,Bharatiya Janata Party,Lotus,477606,MALE
+158,Jharkhand,Hazaribagh,JAYANT SINHA,GEN,GENERAL,Bharatiya Janata Party,Lotus,479548,MALE
+159,Karnataka,Gulbarga,DR. UMESH G JADHAV,SC,SC,Bharatiya Janata Party,Lotus,95452,MALE
+160,Karnataka,Raichur,RAJA AMARESHWARA NAIK,ST,ST,Bharatiya Janata Party,Lotus,117716,MALE
+161,Karnataka,Bidar,BHAGWANTH KHUBA,GEN,GENERAL,Bharatiya Janata Party,Lotus,116834,MALE
+162,Karnataka,Koppal,KARADI SANGANNA AMARAPPA,GEN,GENERAL,Bharatiya Janata Party,Lotus,38397,MALE
+163,Karnataka,Bellary,Y. DEVENDRAPPA,ST,ST,Bharatiya Janata Party,Lotus,55707,MALE
+164,Karnataka,Haveri,UDASI. S.C.,GEN,GENERAL,Bharatiya Janata Party,Lotus,140882,MALE
+165,Karnataka,Dharwad,Pralhad Joshi,GEN,GENERAL,Bharatiya Janata Party,Lotus,205072,MALE
+166,Karnataka,Uttara Kannada,ANANTKUMAR HEGDE,GEN,GENERAL,Bharatiya Janata Party,Lotus,479649,MALE
+167,Karnataka,Davanagere,G M SIDDESHWAR,GEN,GENERAL,Bharatiya Janata Party,Lotus,169702,MALE
+168,Karnataka,Shimoga,B.Y.RAGHAVENDRA.,GEN,GENERAL,Bharatiya Janata Party,Lotus,223360,MALE
+169,Karnataka,Udupi Chikmagalur,SHOBHA KARANDLAJE,GEN,GENERAL,Bharatiya Janata Party,Lotus,349599,FEMALE
+170,Karnataka,Hassan,PRAJWAL REVANNA,GEN,GENERAL,Janata Dal  (Secular),A lady farmer carrying paddy on her head,141324,MALE
+171,Karnataka,Dakshina Kannada,NALIN KUMAR KATEEL,GEN,GENERAL,Bharatiya Janata Party,Lotus,274621,MALE
+172,Karnataka,Chitradurga,A NARAYANASWAMY,SC,SC,Bharatiya Janata Party,Lotus,80178,MALE
+173,Karnataka,Tumkur,G. S. BASAVARAJ,GEN,GENERAL,Bharatiya Janata Party,Lotus,13339,MALE
+174,Karnataka,Mandya,SUMALATHA AMBAREESH,GEN,GENERAL,Independent,Man Blowing Turha,125876,FEMALE
+175,Karnataka,Mysore,PRATHAP SIMHA,GEN,GENERAL,Bharatiya Janata Party,Lotus,138647,MALE
+176,Karnataka,Chamarajanagar,V. SRINIVAS PRASAD,SC,SC,Bharatiya Janata Party,Lotus,1817,MALE
+177,Karnataka,Bangalore Rural,D.K. SURESH,GEN,GENERAL,Indian National Congress,Hand,206870,MALE
+178,Karnataka,Bangalore North,D.V. Sadananda Gowda,GEN,GENERAL,Bharatiya Janata Party,Lotus,147518,MALE
+179,Karnataka,Bangalore central,P. C. Mohan,GEN,GENERAL,Bharatiya Janata Party,Lotus,70968,MALE
+180,Karnataka,Bangalore South,TEJASVI SURYA,GEN,GENERAL,Bharatiya Janata Party,Lotus,331192,MALE
+181,Karnataka,Chikkballapur,B.N.Bache Gowda,GEN,GENERAL,Bharatiya Janata Party,Lotus,182110,MALE
+182,Karnataka,Kolar,S. MUNISWAMY,SC,SC,Bharatiya Janata Party,Lotus,210021,MALE
+183,Karnataka,Chikkodi,ANNASAHEB SHANKAR JOLLE,GEN,GENERAL,Bharatiya Janata Party,Lotus,118877,MALE
+184,Karnataka,Belgaum,ANGADI SURESH CHANNABASAPPA,GEN,GENERAL,Bharatiya Janata Party,Lotus,391304,MALE
+185,Karnataka,Bagalkot,Gaddigoudar Parvatagouda Chandanagouda,GEN,GENERAL,Bharatiya Janata Party,Lotus,168187,MALE
+186,Karnataka,Bijapur,JIGAJINAGI RAMESH CHANDAPPA,SC,SC,Bharatiya Janata Party,Lotus,258038,MALE
+187,Kerala,Alathur ,RAMYA HARIDAS,SC,SC,Indian National Congress,Hand,158968,FEMALE
+188,Kerala,Thrissur,T. N. PRATHAPAN,GEN,GENERAL,Indian National Congress,Hand,93633,MALE
+189,Kerala,Chalakudy,BENNY BEHANAN,GEN,GENERAL,Indian National Congress,Hand,132274,MALE
+190,Kerala,Ernakulam,HIBI EDEN,GEN,GENERAL,Indian National Congress,Hand,169153,MALE
+191,Kerala,Idukki,Adv. DEAN KURIAKOSE,GEN,GENERAL,Indian National Congress,Hand,171053,MALE
+192,Kerala,Kottayam,Thomas Chazhikadan,GEN,GENERAL,Kerala Congress  (M),Two Leaves,106259,MALE
+193,Kerala,Alappuzha,Adv. A M ARIFF,GEN,GENERAL,Communist Party of India  (Marxist),"Hammer, Sickle and Star",10474,MALE
+194,Kerala,Mavelikkara ,KODIKUNNIL SURESH,SC,SC,Indian National Congress,Hand,61138,MALE
+195,Kerala,Pathanamthitta,ANTO ANTONY,GEN,GENERAL,Indian National Congress,Hand,44243,MALE
+196,Kerala,Kollam,N.K.Premachandran,GEN,GENERAL,Revolutionary Socialist Party,Spade & Stoker,148856,MALE
+197,Kerala,Attingal,Adv. ADOOR PRAKASH,GEN,GENERAL,Indian National Congress,Hand,38247,MALE
+198,Kerala,Thiruvananthapuram,Dr. SHASHI THAROOR,GEN,GENERAL,Indian National Congress,Hand,99989,MALE
+199,Kerala,Kasaragod,Rajmohan Unnithan,GEN,GENERAL,Indian National Congress,Hand,40438,MALE
+200,Kerala,Kannur,K. SUDHAKARAN,GEN,GENERAL,Indian National Congress,Hand,94559,MALE
+201,Kerala,Vadakara,K. MURALEEDHARAN,GEN,GENERAL,Indian National Congress,Hand,84663,MALE
+202,Kerala,Wayanad,Rahul Gandhi,GEN,GENERAL,Indian National Congress,Hand,431770,MALE
+203,Kerala,Kozhikode,M.K.RAGHAVAN,GEN,GENERAL,Indian National Congress,Hand,85225,MALE
+204,Kerala,Malappuram,P.K. Kunhalikutty,GEN,GENERAL,Indian Union Muslim League,Ladder,260153,MALE
+205,Kerala,Ponnani,E. T. Mohammed Basheer,GEN,GENERAL,Indian Union Muslim League,Ladder,193273,MALE
+206,Kerala,Palakkad,V K SREEKANDAN,GEN,GENERAL,Indian National Congress,Hand,11637,MALE
+207,Lakshadweep,Lakshadweep,MOHAMMED FAIZAL PP,ST,ST,Nationalist Congress Party,Clock,823,MALE
+208,Madhya Pradesh,DEWAS,MAHENDRA SINGH SOLANKY,SC,SC,Bharatiya Janata Party,Lotus,372249,MALE
+209,Madhya Pradesh,UJJAIN,ANIL FIROJIYA,SC,SC,Bharatiya Janata Party,Lotus,365637,MALE
+210,Madhya Pradesh,MANDSOUR,Sudheer Gupta,GEN,GENERAL,Bharatiya Janata Party,Lotus,376734,MALE
+211,Madhya Pradesh,RATLAM,GUMAN SINGH DAMOR,ST,ST,Bharatiya Janata Party,Lotus,90636,MALE
+212,Madhya Pradesh,DHAR,CHATTARSINGH DARBAR,ST,ST,Bharatiya Janata Party,Lotus,156029,MALE
+213,Madhya Pradesh,INDORE,SHANKAR LALWANI,GEN,GENERAL,Bharatiya Janata Party,Lotus,547754,MALE
+214,Madhya Pradesh,KHARGONE,GAJENDRA UMRAO SINGH PATEL,ST,ST,Bharatiya Janata Party,Lotus,202510,MALE
+215,Madhya Pradesh,KHANDWA,NANDKUMAR SINGH CHOUHAN (NANDU BHAIYA),GEN,GENERAL,Bharatiya Janata Party,Lotus,273343,MALE
+216,Madhya Pradesh,BETUL,DURGA DAS (D.D.) UIKEY,ST,ST,Bharatiya Janata Party,Lotus,360241,MALE
+217,Madhya Pradesh,MORENA,NARENDRA SINGH TOMAR,GEN,GENERAL,Bharatiya Janata Party,Lotus,113341,MALE
+218,Madhya Pradesh,BHIND,SANDHYA RAY,SC,SC,Bharatiya Janata Party,Lotus,199885,FEMALE
+219,Madhya Pradesh,GWALIOR,VIVEK NARAYAN SHEJWALKAR,GEN,GENERAL,Bharatiya Janata Party,Lotus,146842,MALE
+220,Madhya Pradesh,GUNA,"KRISHNA PAL SINGH ""Dr. K. P. YADAV""",GEN,GENERAL,Bharatiya Janata Party,Lotus,125549,MALE
+221,Madhya Pradesh,SAGAR,RAJBAHADUR SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,305542,MALE
+222,Madhya Pradesh,TIKAMGARH,Dr Virendra Kumar,SC,SC,Bharatiya Janata Party,Lotus,348059,MALE
+223,Madhya Pradesh,DAMOH,PRAHALAD SINGH PATEL,GEN,GENERAL,Bharatiya Janata Party,Lotus,353411,MALE
+224,Madhya Pradesh,KHAJURAHO,V.D. SHARMA (VISHNU DATT SHARMA),GEN,GENERAL,Bharatiya Janata Party,Lotus,492382,MALE
+225,Madhya Pradesh,SATNA,GANESH SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,231473,MALE
+226,Madhya Pradesh,REWA,JANARDAN MISHRA,GEN,GENERAL,Bharatiya Janata Party,Lotus,312808,MALE
+227,Madhya Pradesh,SIDHI,Riti Pathak,GEN,GENERAL,Bharatiya Janata Party,Lotus,286524,FEMALE
+228,Madhya Pradesh,SHAHDOL,HIMADRI SINGH,ST,ST,Bharatiya Janata Party,Lotus,403333,FEMALE
+229,Madhya Pradesh,JABALPUR,RAKESH SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,454744,MALE
+230,Madhya Pradesh,MANDLA,FAGGAN SINGH KULASTE,ST,ST,Bharatiya Janata Party,Lotus,97674,MALE
+231,Madhya Pradesh,BALAGHAT,DR DHAL SINGH BISEN,GEN,GENERAL,Bharatiya Janata Party,Lotus,242066,MALE
+232,Madhya Pradesh,CHHINDWARA,NAKUL KAMAL NATH,GEN,GENERAL,Indian National Congress,Hand,37536,MALE
+233,Madhya Pradesh,HOSHANGABAD,UDAY PRATAP SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,553682,MALE
+234,Madhya Pradesh,VIDISHA,Ramakant Bhargava,GEN,GENERAL,Bharatiya Janata Party,Lotus,503084,MALE
+235,Madhya Pradesh,BHOPAL,SADHVI PRAGYA SINGH THAKUR,GEN,GENERAL,Bharatiya Janata Party,Lotus,364822,FEMALE
+236,Madhya Pradesh,RAJGARH,RODMAL NAGAR,GEN,GENERAL,Bharatiya Janata Party,Lotus,431019,MALE
+237,Maharashtra,Kalyan,Dr. SHRIKANT EKNATH SHINDE,GEN,GENERAL,Shivsena,Bow and Arrow,344343,MALE
+238,Maharashtra,Thane,RAJAN BABURAO VICHARE,GEN,GENERAL,Shivsena,Bow and Arrow,412145,MALE
+239,Maharashtra,Mumbai North,Gopal Shetty,GEN,GENERAL,Bharatiya Janata Party,Lotus,465247,MALE
+240,Maharashtra,Mumbai North West,Gajanan Kirtikar,GEN,GENERAL,Shivsena,Bow and Arrow,260328,MALE
+241,Maharashtra,Mumbai North East,Manoj Kotak,GEN,GENERAL,Bharatiya Janata Party,Lotus,226486,MALE
+242,Maharashtra,Mumbai North central,POONAM MAHAJAN,GEN,GENERAL,Bharatiya Janata Party,Lotus,130005,FEMALE
+243,Maharashtra,Mumbai South central,Rahul Ramesh Shewale,GEN,SC,Shivsena,Bow & Arrow,152139,MALE
+244,Maharashtra,Mumbai   South,Arvind Ganpat Sawant,GEN,GENERAL,Shivsena,Bow and Arrow,100067,MALE
+245,Maharashtra,Raigad,Tatkare Sunil Dattatray,GEN,GENERAL,Nationalist Congress Party,Clock,31438,MALE
+246,Maharashtra,Maval,SHRIRANG APPA CHANDU BARNE,GEN,GENERAL,Shivsena,Bow and Arrow,215913,MALE
+247,Maharashtra,Nandurbar ,Dr. Heena Vijaykumar Gavit,ST,ST,Bharatiya Janata Party,Lotus,95629,FEMALE
+248,Maharashtra,Pune,Girish Bhalchandra Bapat,GEN,GENERAL,Bharatiya Janata Party,Lotus,324628,MALE
+249,Maharashtra,Dhule,Bhamre Subhash Ramrao,GEN,GENERAL,Bharatiya Janata Party,Lotus,229243,MALE
+250,Maharashtra,Baramati,Supriya Sule,GEN,GENERAL,Nationalist Congress Party,Clock,155774,FEMALE
+251,Maharashtra,Jalgaon,Unmesh Bhaiyyasaheb Patil,GEN,GENERAL,Bharatiya Janata Party,Lotus,411617,MALE
+252,Maharashtra,Shirur,Dr. Amol Ramsing Kolhe,GEN,GENERAL,Nationalist Congress Party,Clock,58483,MALE
+253,Maharashtra,Raver,Khadse Raksha Nikhil,GEN,GENERAL,Bharatiya Janata Party,Lotus,335882,FEMALE
+254,Maharashtra,Ahmadnagar ,Dr. SUJAY RADHAKRISHNA VIKHEPATIL,GEN,GENERAL,Bharatiya Janata Party,Lotus,281474,MALE
+255,Maharashtra,Buldhana,Jadhav Prataprao Ganpatrao,GEN,GENERAL,Shivsena,Bow and Arrow,133287,MALE
+256,Maharashtra,Shirdi,SADASHIV KISAN LOKHANDE,SC,SC,Shivsena,Bow and Arrow,120195,MALE
+257,Maharashtra,Akola,Dhotre Sanjay Shamrao,GEN,GENERAL,Bharatiya Janata Party,Lotus,275596,MALE
+258,Maharashtra,Beed,Pritam Gopinathrao Munde,GEN,GENERAL,Bharatiya Janata Party,Lotus,168368,FEMALE
+259,Maharashtra,Amravati ,Navnit Ravi Rana,SC,SC,Independent,Spanner,36951,FEMALE
+260,Maharashtra,Osmanabad,Omprakash Bhupalsinh Alias Pawan Rajenimbalkar,GEN,GENERAL,Shivsena,Bow and Arrow,127566,MALE
+261,Maharashtra,Wardha,Ramdas Chandrabhanji Tadas,GEN,GENERAL,Bharatiya Janata Party,Lotus,187191,MALE
+262,Maharashtra,Latur ,Sudhakar Tukaram Shrangare,SC,SC,Bharatiya Janata Party,Lotus,289111,MALE
+263,Maharashtra,Ramtek ,Krupal Balaji Tumane,SC,SC,Shivsena,Bow and Arrow,126783,MALE
+264,Maharashtra,Nagpur ,NITIN JAIRAM GADKARI,GEN,GENERAL,Bharatiya Janata Party,Lotus,216009,MALE
+265,Maharashtra,Solapur ,SHRI. SHA. BRA. DR. JAI SIDHESHWAR SHIVACHARY MAHASWAMIJI,SC,SC,Bharatiya Janata Party,Lotus,158608,MALE
+266,Maharashtra,Bhandara - gondiya,Sunil Baburao Mendhe,GEN,GENERAL,Bharatiya Janata Party,Lotus,197394,MALE
+267,Maharashtra,Madha,Ranjeetsinha Hindurao Naik- Nimbalkar,GEN,GENERAL,Bharatiya Janata Party,Lotus,85764,MALE
+268,Maharashtra,Gadchiroli-Chimur,ASHOK MAHADEORAO NETE,ST,ST,Bharatiya Janata Party,Lotus,77526,MALE
+269,Maharashtra,Sangli,Sanjaykaka Patil,GEN,GENERAL,Bharatiya Janata Party,Lotus,164352,MALE
+270,Maharashtra,Chandrapur,Balubhau alias Suresh Narayan Dhanorkar,GEN,GENERAL,Indian National Congress,Hand,44763,MALE
+271,Maharashtra,Satara,SHRIMANT CHH. UDAYANRAJE PRATAPSINHMAHARAJ BHONSLE,GEN,GENERAL,Nationalist Congress Party,Clock,126528,MALE
+272,Maharashtra,Ratnagiri - sindhudurg,Vinayak Raut,GEN,GENERAL,Shivsena,Bow and Arrow,178322,MALE
+273,Maharashtra,Yavatmal-Washim,Bhavana Pundlikrao Gawali,GEN,GENERAL,Shivsena,Bow and Arrow,117939,FEMALE
+274,Maharashtra,Kolhapur,Sanjay Sadashivrao Mandlik,GEN,GENERAL,Shivsena,Bow and Arrow,270568,MALE
+275,Maharashtra,Hingoli ,Hemant Patil,GEN,GENERAL,Shivsena,Bow and Arrow,277856,MALE
+276,Maharashtra,Hatkanangle,Dhairyasheel Sambhajirao Mane,GEN,GENERAL,Shivsena,Bow and Arrow,96039,MALE
+277,Maharashtra,Nanded,Prataprao Patil Chikhalikar,GEN,GENERAL,Bharatiya Janata Party,Lotus,40148,MALE
+278,Maharashtra,Parbhani,JADHAV SANJAY (BANDU) HARIBHAU,GEN,GENERAL,Shivsena,Bow and Arrow,42199,MALE
+279,Maharashtra,Jalna,Danve Raosaheb Dadarao,GEN,GENERAL,Bharatiya Janata Party,Lotus,332815,MALE
+280,Maharashtra,Aurangabad,Imtiaz Jaleel Syed,GEN,GENERAL,All India Majlis-E-Ittehadul Muslimeen,Kite,4492,MALE
+281,Maharashtra,Dindori ,Dr. Bharati Pravin Pawar,ST,ST,Bharatiya Janata Party,Lotus,198779,FEMALE
+282,Maharashtra,Nashik,Godse Hemant Tukaram,GEN,GENERAL,Shivsena,Bow and Arrow,292204,MALE
+283,Maharashtra,Palghar ,Rajendra Dhedya Gavit,ST,ST,Shivsena,Bow and Arrow,88883,MALE
+284,Maharashtra,Bhiwandi,KAPIL MORESHWAR PATIL,GEN,GENERAL,Bharatiya Janata Party,Lotus,156329,MALE
+285,Manipur,Inner manipur,DR RAJKUMAR RANJAN SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,17755,MALE
+286,Manipur,Outer manipur,Lorho S. Pfoze,ST,ST,Naga Peoples Front,Cock,73782,MALE
+287,Meghalaya,Shillong,VINCENT H. PALA,ST,ST,Indian National Congress,Hand,152433,MALE
+288,Meghalaya,Tura ,AGATHA K. SANGMA,ST,ST,National People's Party,Book,64030,FEMALE
+289,Mizoram,MIZORAM,C LALROSANGA,ST,ST,Mizo National Front,Star,8140,MALE
+290,Nagaland,Nagaland,Tokheho Yepthomi,GEN,ST,Nationalist Democratic Progressive Party,Globe,16344,MALE
+291,NCT OF Delhi,CHANDNI CHOWK                 ,HARSH VARDHAN,GEN,GENERAL,Bharatiya Janata Party,Lotus,228145,MALE
+292,NCT OF Delhi,NORTH EAST DELHI              ,MANOJ TIWARI,GEN,GENERAL,Bharatiya Janata Party,Lotus,366102,MALE
+293,NCT OF Delhi,EAST DELHI                    ,GAUTAM GAMBHIR,GEN,GENERAL,Bharatiya Janata Party,Lotus,391222,MALE
+294,NCT OF Delhi,NEW DELHI                     ,MEENAKASHI LEKHI,GEN,GENERAL,Bharatiya Janata Party,Lotus,256504,FEMALE
+295,NCT OF Delhi,NORTH WEST DELHI              ,HANS RAJ HANS,SC ,SC,Bharatiya Janata Party,Lotus,553897,MALE
+296,NCT OF Delhi,WEST DELHI                    ,PARVESH SAHIB SINGH VERMA,GEN,GENERAL,Bharatiya Janata Party,Lotus,578486,MALE
+297,NCT OF Delhi,SOUTH DELHI                   ,RAMESH BIDHURI,GEN,GENERAL,Bharatiya Janata Party,Lotus,367043,MALE
+298,Odisha,Sundargarh ,Jual Oram,ST,ST,Bharatiya Janata Party,Lotus,223065,MALE
+299,Odisha,Sambalpur,NITESH GANGA DEB,GEN,GENERAL,Bharatiya Janata Party,Lotus,9162,MALE
+300,Odisha,Keonjhar ,Chandrani Murmu,ST,ST,Biju Janata Dal,Conch,66203,FEMALE
+301,Odisha,Mayurbhanj ,BISHWESWAR TUDU,ST,ST,Bharatiya Janata Party,Lotus,25256,MALE
+302,Odisha,Balasore,PRATAP CHANDRA SARANGI,GEN,GENERAL,Bharatiya Janata Party,Lotus,12956,MALE
+303,Odisha,Bhadrak ,MANJULATA MANDAL,SC,SC,Biju Janata Dal,Conch,28791,FEMALE
+304,Odisha,Jajpur ,SARMISTHA SETHI,SC,SC,Biju Janata Dal,Conch,101693,FEMALE
+305,Odisha,Dhenkanal,MAHESH SAHOO,GEN,SC,Biju Janata Dal,Conch,35412,MALE
+306,Odisha,Bolangir,Sangeeta Kumari Singh Deo,GEN,GENERAL,Bharatiya Janata Party,Lotus,19516,FEMALE
+307,Odisha,Kalahandi,BASANTA KUMAR PANDA,GEN,GENERAL,Bharatiya Janata Party,Lotus,26814,MALE
+308,Odisha,Nabarangpur ,RAMESH CHANDRA MAJHI,ST,ST,Biju Janata Dal,Conch,41634,MALE
+309,Odisha,Kandhamal,ACHYUTANANDA SAMANTA,GEN,GENERAL,Biju Janata Dal,Conch,149216,MALE
+310,Odisha,Cuttack,BHARTRUHARI MAHTAB,GEN,GENERAL,Biju Janata Dal,Conch,121201,MALE
+311,Odisha,Kendrapara ,Anubhav Mohanty,GEN,GENERAL,Biju Janata Dal,Conch,153581,MALE
+312,Odisha,Jagatsinghpur ,RAJASHREE MALLICK,SC,SC,Biju Janata Dal,Conch,271655,FEMALE
+313,Odisha,Puri,PINAKI MISRA,GEN,GENERAL,Biju Janata Dal,Conch,11714,MALE
+314,Odisha,Bhubaneswar,APARAJITA SARANGI,GEN,GENERAL,Bharatiya Janata Party,Lotus,23839,FEMALE
+315,Odisha,Aska,Pramila Bisoyi,GEN,GENERAL,Biju Janata Dal,Conch,204707,FEMALE
+316,Odisha,Berhampur,CHANDRA SEKHAR SAHU,GEN,GENERAL,Biju Janata Dal,Conch,94844,MALE
+317,Odisha,Koraput ,SAPTAGIRI SANKAR ULAKA,ST,ST,Indian National Congress,Hand,3613,MALE
+318,Odisha,Bargarh,Suresh Pujari,GEN,GENERAL,Bharatiya Janata Party,Lotus,63939,MALE
+319,Puducherry,Puducherry,Ve. VAITHILINGAM,GEN,GENERAL,Indian National Congress,Hand,197025,MALE
+320,Punjab,Bathinda,Harsimrat Kaur Badal,GEN,GENERAL,Shiromani Akali Dal,Scales,21772,FEMALE
+321,Punjab,Sangrur,BHAGWANT MANN,GEN,GENERAL,Aam Aadmi Party,Broom,110211,MALE
+322,Punjab,Patiala,Preneet Kaur,GEN,GENERAL,Indian National Congress,Hand,162718,FEMALE
+323,Punjab,Gurdaspur,SUNNY DEOL,GEN,GENERAL,Bharatiya Janata Party,Lotus,82459,MALE
+324,Punjab,Amritsar,GURJEET SINGH AUJLA,GEN,GENERAL,Indian National Congress,Hand,99626,MALE
+325,Punjab,Khadoor Sahib,JASBIR SINGH GILL (DIMPA),GEN,GENERAL,Indian National Congress,Hand,140573,MALE
+326,Punjab,Jalandhar,Santokh Singh Chaudhary,SC,SC,Indian National Congress,Hand,19491,MALE
+327,Punjab,Hoshiarpur,SOM PARKASH,SC,SC,Bharatiya Janata Party,Lotus,48530,MALE
+328,Punjab,Anandpur Sahib,Manish Tewari,GEN,GENERAL,Indian National Congress,Hand,46884,MALE
+329,Punjab,Ludhiana,RAVNEET SINGH BITTU,GEN,GENERAL,Indian National Congress,Hand,76372,MALE
+330,Punjab,Fatehgarh Sahib,AMAR SINGH,SC,SC,Indian National Congress,Hand,93898,MALE
+331,Punjab,Faridkot,Mohammad Sadique,SC,SC,Indian National Congress,Hand,83256,MALE
+332,Punjab,Firozpur,SUKHBIR SINGH BADAL,GEN,GENERAL,Shiromani Akali Dal,Scales,198850,MALE
+333,Rajasthan,Ganganagar,NIHAL CHAND,SC,SC,Bharatiya Janata Party,Lotus,406978,MALE
+334,Rajasthan,Bikaner (SC),ARJUN RAM MEGHWAL,SC,SC,Bharatiya Janata Party,Lotus,264081,MALE
+335,Rajasthan,Churu,RAHUL KASWAN,GEN,GENERAL,Bharatiya Janata Party,Lotus,334402,MALE
+336,Rajasthan,Jhunjhunu,NARENDRA KUMAR,GEN,GENERAL,Bharatiya Janata Party,Lotus,302547,MALE
+337,Rajasthan,Sikar,Sumedhanand Saraswati,GEN,GENERAL,Bharatiya Janata Party,Lotus,297156,MALE
+338,Rajasthan,Jaipur Rural,COL. RAJYAVARDHAN RATHORE,GEN,GENERAL,Bharatiya Janata Party,Lotus,393171,MALE
+339,Rajasthan,Jaipur,Ramcharan Bohra,GEN,GENERAL,Bharatiya Janata Party,Lotus,430626,MALE
+340,Rajasthan,Alwar,Balak Nath,GEN,GENERAL,Bharatiya Janata Party,Lotus,329971,MALE
+341,Rajasthan,BHARATPUR,RANJEETA KOLI,SC,SC,Bharatiya Janata Party,Lotus,318399,FEMALE
+342,Rajasthan,KARAULI-DHOLPUR,MANOJ RAJORIA,SC,SC,Bharatiya Janata Party,Lotus,97682,MALE
+343,Rajasthan,Dausa,Jaskaur Meena,ST,ST,Bharatiya Janata Party,Lotus,78444,FEMALE
+344,Rajasthan,TONK-SAWAI MADHOPUR,Sukhbir Singh Jaunapuria,GEN,GENERAL,Bharatiya Janata Party,Lotus,111291,MALE
+345,Rajasthan,Ajmer,Bhagirath Chaudhary,GEN,GENERAL,Bharatiya Janata Party,Lotus,416424,MALE
+346,Rajasthan,Nagaur,HANUMAN BENIWAL,GEN,GENERAL,Rashtriya Loktantrik Party,Tyres,181260,MALE
+347,Rajasthan,Pali,P. P. CHAUDHARY,GEN,GENERAL,Bharatiya Janata Party,Lotus,481597,MALE
+348,Rajasthan,Jodhpur,Gajendra Singh Shekhawat,GEN,GENERAL,Bharatiya Janata Party,Lotus,274440,MALE
+349,Rajasthan,Barmer,KAILASH CHOUDHARY,GEN,GENERAL,Bharatiya Janata Party,Lotus,323808,MALE
+350,Rajasthan,Jalore,Devaji Patel,GEN,GENERAL,Bharatiya Janata Party,Lotus,261110,MALE
+351,Rajasthan,Udaipur,ARJUNLAL MEENA,ST,ST,Bharatiya Janata Party,Lotus,437914,MALE
+352,Rajasthan,Banswara,KANAKMAL KATARA,ST,ST,Bharatiya Janata Party,Lotus,305464,MALE
+353,Rajasthan,Chittorgarh,Chandra Prakash Joshi,GEN,GENERAL,Bharatiya Janata Party,Lotus,576247,MALE
+354,Rajasthan,Rajsamand,Diya Kumari,GEN,GENERAL,Bharatiya Janata Party,Lotus,551916,FEMALE
+355,Rajasthan,Bhilwara,SUBHASH CHANDRA BAHERIA,GEN,GENERAL,Bharatiya Janata Party,Lotus,612000,MALE
+356,Rajasthan,Kota,OM BIRLA,GEN,GENERAL,Bharatiya Janata Party,Lotus,279677,MALE
+357,Rajasthan,JHALAWAR-BARAN,DUSHYANT SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,453928,MALE
+358,Sikkim,Sikkim,INDRA HANG SUBBA,GEN,GENERAL,Sikkim Krantikari Morcha,Table Lamp,12433,MALE
+359,Tamil Nadu,Tenkasi ,DHANUSH.M.KUMAR,SC,SC,Dravida Munnetra Kazhagam,Rising Sun,120767,MALE
+360,Tamil Nadu,Chennai central,DAYANIDHI MARAN,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,301520,MALE
+361,Tamil Nadu,Sriperumbudur,Baalu.T.R.,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,507955,MALE
+362,Tamil Nadu,Tirunelveli,GNANATHIRAVIAM S,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,185720,MALE
+363,Tamil Nadu,Kancheepuram ,Selvam.G,SC,SC,Dravida Munnetra Kazhagam,Rising Sun,286632,MALE
+364,Tamil Nadu,Kanniyakumari,Vasanthakumar. H,GEN,GENERAL,Indian National Congress,Hand,259933,MALE
+365,Tamil Nadu,Arakkonam,S. JAGATHRAKSHAKAN,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,328956,MALE
+366,Tamil Nadu,Krishnagiri,Dr.A.CHELLAKUMAR,GEN,GENERAL,Indian National Congress,Hand,156765,MALE
+367,Tamil Nadu,Dharmapuri,DNV SENTHILKUMAR. S.,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,70753,MALE
+368,Tamil Nadu,Tiruvannamalai,ANNADURAI C N,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,304187,MALE
+369,Tamil Nadu,Arani,VISHNU PRASAD M K,GEN,GENERAL,Indian National Congress,Hand,230806,MALE
+370,Tamil Nadu,Viluppuram,RAVIKUMAR D,SC,SC,Dravida Munnetra Kazhagam,Rising Sun,128068,MALE
+371,Tamil Nadu,Kallakurichi,Gautham Sigamani Pon,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,399919,MALE
+372,Tamil Nadu,Salem,PARTHIBAN.S.R,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,146926,MALE
+373,Tamil Nadu,Namakkal,CHINRAJ A.K.P,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,265151,MALE
+374,Tamil Nadu,Erode,GANESHAMURTHI A,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,210618,MALE
+375,Tamil Nadu,Tiruppur,"SUBBARAYAN, K.",GEN,GENERAL,Communist Party of India,Ears of Corn And Sickle,93368,MALE
+376,Tamil Nadu,Nilgiris ,"RAJA, A.",SC,SC,Dravida Munnetra Kazhagam,Rising Sun,205823,MALE
+377,Tamil Nadu,Coimbatore,NATARAJAN. P.R,GEN,GENERAL,Communist Party of India  (Marxist),"Hammer, Sickle and Star",179143,MALE
+378,Tamil Nadu,Pollachi,SHANMUGA SUNDARAM. K,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,175883,MALE
+379,Tamil Nadu,Dindigul,"VELUSAMY, P.",GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,538972,MALE
+380,Tamil Nadu,Karur,Jothimani S,GEN,GENERAL,Indian National Congress,Hand,420546,FEMALE
+381,Tamil Nadu,Tiruchirappalli,Thirunavukkarasar. SU,GEN,GENERAL,Indian National Congress,Hand,459286,MALE
+382,Tamil Nadu,Perambalur,"Dr.PAARIVENDHAR, T. R",GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,403518,MALE
+383,Tamil Nadu,Cuddalore ,T. R. V .S. RAMESH,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,143983,MALE
+384,Tamil Nadu,Chidambaram ,THIRUMAAVALAVAN THOL,SC,SC,Viduthalai Chiruthaigal Katchi,Pot,3219,MALE
+385,Tamil Nadu,Mayiladuthurai,RAMALINGAM. S,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,261314,MALE
+386,Tamil Nadu,Nagapattinam ,SELVARAJ M,SC,SC,Communist Party of India,Ears of Corn And Sickle,211353,MALE
+387,Tamil Nadu,Thanjavur,"PALANIMANICKAM,S.S.",GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,368129,MALE
+388,Tamil Nadu,Sivaganga,KARTI P CHIDAMBARAM,GEN,GENERAL,Indian National Congress,Hand,332244,MALE
+389,Tamil Nadu,Madurai,VENKATESAN S,GEN,GENERAL,Communist Party of India  (Marxist),"Hammer, Sickle and Star",139395,MALE
+390,Tamil Nadu,Theni ,"RAVEENDRANATH KUMAR, P",GEN,GENERAL,All India Anna Dravida Munnetra Kazhagam,Two Leaves,76693,MALE
+391,Tamil Nadu,Vellore,D.M.KATHIR ANAND,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,8141,MALE
+392,Tamil Nadu,Virudhunagar,"MANICKAM TAGORE, B.",GEN,GENERAL,Indian National Congress,Hand,154554,MALE
+393,Tamil Nadu,Thiruvallur ,Dr.K.Jayakumar,SC,SC,Indian National Congress,Hand,356955,MALE
+394,Tamil Nadu,Ramanathapuram,K. NAVASKANI,GEN,GENERAL,Indian Union Muslim League,Ladder,127122,MALE
+395,Tamil Nadu,Chennai North,Dr. KALANIDHI VEERASWAMY,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,461518,MALE
+396,Tamil Nadu,Thoothukkudi,KANIMOZHI KARUNANIDHI,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,347209,FEMALE
+397,Tamil Nadu,Chennai South,T.SUMATHY (A) THAMIZHACHI THANGAPANDIAN,GEN,GENERAL,Dravida Munnetra Kazhagam,Rising Sun,262223,FEMALE
+398,Telangana,Peddapalle ,Venkatesh Netha Borlakunta,SC,SC,Telangana Rashtra Samithi,Car,95180,MALE
+399,Telangana,Karimnagar ,BANDI SANJAY KUMAR,GEN,GENERAL,Bharatiya Janata Party,Lotus,89508,MALE
+400,Telangana,Nizamabad,ARVIND DHARMAPURI,GEN,GENERAL,Bharatiya Janata Party,Lotus,70875,MALE
+401,Telangana,Zahirabad,B.B.PATIL,GEN,GENERAL,Telangana Rashtra Samithi,Car,6229,MALE
+402,Telangana,Medak,Kotha Prabhakar Reddy,GEN,GENERAL,Telangana Rashtra Samithi,Car,316427,MALE
+403,Telangana,Malkajgiri,ANUMULA REVANTH REDDY,GEN,GENERAL,Indian National Congress,Hand,10919,MALE
+404,Telangana,Secundrabad,G . KISHAN REDDY,GEN,GENERAL,Bharatiya Janata Party,Lotus,62114,MALE
+405,Telangana,Hyderabad,ASADUDDIN OWAISI,GEN,GENERAL,All India Majlis-E-Ittehadul Muslimeen,Kite,282186,MALE
+406,Telangana,CHEVELLA,Dr. G. Ranjith Reddy,GEN,GENERAL,Telangana Rashtra Samithi,Car,14317,MALE
+407,Telangana,Mahbubnagar,MANNE SRINIVAS REDDY,GEN,GENERAL,Telangana Rashtra Samithi,Car,77829,MALE
+408,Telangana,Nagarkurnool,POTHUGANTI RAMULU,SC,SC,Telangana Rashtra Samithi,Car,189748,MALE
+409,Telangana,Nalgonda,UTTAM KUMAR REDDY NALAMADA,GEN,GENERAL,Indian National Congress,Hand,25682,MALE
+410,Telangana,Bhongir ,Komati Reddy Venkat Reddy,GEN,GENERAL,Indian National Congress,Hand,5219,MALE
+411,Telangana,Warangal,DAYAKAR PASUNOORI,SC,SC,Telangana Rashtra Samithi,Car,350298,MALE
+412,Telangana,Mahabubabad  ,Kavitha Malothu,ST,ST,Telangana Rashtra Samithi,Car,146663,FEMALE
+413,Telangana,Khammam ,NAMA NAGESWR RAO,GEN,GENERAL,Telangana Rashtra Samithi,Car,168062,MALE
+414,Telangana,Adilabad ,SOYAM BAPU RAO,ST,ST,Bharatiya Janata Party,Lotus,58560,MALE
+415,Tripura,Tripura West,Pratima Bhoumik,GEN,GENERAL,Bharatiya Janata Party,Lotus,305689,FEMALE
+416,Tripura,Tripura East,Rebati Tripura,ST,ST,Bharatiya Janata Party,Lotus,204290,MALE
+417,Uttar Pradesh,Domariyaganj,JAGDAMBIKA PAL,GEN,GENERAL,Bharatiya Janata Party,Lotus,105321,MALE
+418,Uttar Pradesh,Kheri,Ajay Kumar,GEN,GENERAL,Bharatiya Janata Party,Lotus,218807,MALE
+419,Uttar Pradesh,Basti,HARISH CHANDRA ALIAS HARISH DWIVEDI,GEN,GENERAL,Bharatiya Janata Party,Lotus,30354,MALE
+420,Uttar Pradesh,Dhaurahra,REKHA VERMA,GEN,GENERAL,Bharatiya Janata Party,Lotus,160611,FEMALE
+421,Uttar Pradesh,Sant Kabir Nagar,PRAVEEN KUMAR NISHAD,GEN,ST,Bharatiya Janata Party,Lotus,35749,MALE
+422,Uttar Pradesh,Sitapur,Rajesh Verma,GEN,GENERAL,Bharatiya Janata Party,Lotus,100833,MALE
+423,Uttar Pradesh,Maharajganj,PANKAJ CHOUDHARY,GEN,GENERAL,Bharatiya Janata Party,Lotus,340424,MALE
+424,Uttar Pradesh,Hardoi,Jai Prakash,SC,SC,Bharatiya Janata Party,Lotus,132474,MALE
+425,Uttar Pradesh,Gorakhpur,Ravindra Shyamnarayan Shukla alias Ravi Kishan,GEN,GENERAL,Bharatiya Janata Party,Lotus,301664,MALE
+426,Uttar Pradesh,Misrikh,Ashok Kumar Rawat,SC,SC,Bharatiya Janata Party,Lotus,100672,MALE
+427,Uttar Pradesh,Saharanpur,HAJI FAZLUR REHMAN,GEN,GENERAL,Bahujan Samaj Party,Elephant,22417,MALE
+428,Uttar Pradesh,Kushi Nagar,VIJAY KUMAR DUBEY,GEN,GENERAL,Bharatiya Janata Party,Lotus,337560,MALE
+429,Uttar Pradesh,Unnao,Swami Sakshi Ji Maharaj,GEN,GENERAL,Bharatiya Janata Party,Lotus,400956,MALE
+430,Uttar Pradesh,Kairana,Pradeep Kumar,GEN,GENERAL,Bharatiya Janata Party,Lotus,92160,MALE
+431,Uttar Pradesh,Deoria,RAMAPATI RAM TRIPATHI,GEN,GENERAL,Bharatiya Janata Party,Lotus,249931,MALE
+432,Uttar Pradesh,Mohanlalganj,Kaushal Kishore,SC,SC,Bharatiya Janata Party,Lotus,90204,MALE
+433,Uttar Pradesh,Muzaffarnagar,Sanjeev Kumar Balyan,GEN,GENERAL,Bharatiya Janata Party,Lotus,6526,MALE
+434,Uttar Pradesh,Bansgaon,Kamlesh Paswan,SC,SC,Bharatiya Janata Party,Lotus,153468,MALE
+435,Uttar Pradesh,Lucknow,Rajnath Singh,GEN,GENERAL,Bharatiya Janata Party,Lotus,347302,MALE
+436,Uttar Pradesh,Bijnor,MALOOK NAGAR,GEN,GENERAL,Bahujan Samaj Party,Elephant,69941,MALE
+437,Uttar Pradesh,Lalganj,Sangeeta Azad,SC,SC,Bahujan Samaj Party,Elephant,161597,FEMALE
+438,Uttar Pradesh,Rae Bareli,SONIA GANDHI,GEN,GENERAL,Indian National Congress,Hand,167178,FEMALE
+439,Uttar Pradesh,Nagina,GIRISH CHANDRA,SC,SC,Bahujan Samaj Party,Elephant,166832,MALE
+440,Uttar Pradesh,Azamgarh,Akhilesh Yadav,GEN,GENERAL,Samajwadi Party,Bicycle,259874,MALE
+441,Uttar Pradesh,Amethi,Smriti Irani,GEN,GENERAL,Bharatiya Janata Party,Lotus,55120,FEMALE
+442,Uttar Pradesh,Sultanpur,MANEKA SANJAI GANDHI,GEN,GENERAL,Bharatiya Janata Party,Lotus,14526,FEMALE
+443,Uttar Pradesh,Moradabad,Dr. S.T. HASAN,GEN,GENERAL,Samajwadi Party,Bicycle,97878,MALE
+444,Uttar Pradesh,Ghosi,ATUL KUMAR SINGH,GEN,GENERAL,Bahujan Samaj Party,Elephant,122568,MALE
+445,Uttar Pradesh,Pratapgarh,SANGAM LAL GUPTA,GEN,GENERAL,Bharatiya Janata Party,Lotus,117752,MALE
+446,Uttar Pradesh,Rampur,Mohammad Azam Khan,GEN,GENERAL,Samajwadi Party,Bicycle,109997,MALE
+447,Uttar Pradesh,Salempur,RAVINDER,GEN,GENERAL,Bharatiya Janata Party,Lotus,112615,MALE
+448,Uttar Pradesh,Farrukhabad,Mukesh Rajput,GEN,GENERAL,Bharatiya Janata Party,Lotus,221702,MALE
+449,Uttar Pradesh,Sambhal,DR. SHAFIQUR REHMAN BARQ,GEN,GENERAL,Samajwadi Party,Bicycle,174826,MALE
+450,Uttar Pradesh,Ballia,Virendra Singh,GEN,GENERAL,Bharatiya Janata Party,Lotus,15519,MALE
+451,Uttar Pradesh,Etawah,Dr RAM SHANKAR KATHERIA,SC,SC,Bharatiya Janata Party,Lotus,64437,MALE
+452,Uttar Pradesh,Amroha,KUNWAR DANISH ALI,GEN,GENERAL,Bahujan Samaj Party,Elephant,63248,MALE
+453,Uttar Pradesh,Kannauj,SUBRAT PATHAK,GEN,GENERAL,Bharatiya Janata Party,Lotus,12353,MALE
+454,Uttar Pradesh,Meerut,RAJENDRA AGARWAL,GEN,GENERAL,Bharatiya Janata Party,Lotus,4729,MALE
+455,Uttar Pradesh,Kanpur,Satyadev Pachauri,GEN,GENERAL,Bharatiya Janata Party,Lotus,155934,MALE
+456,Uttar Pradesh,Baghpat,Dr. SATYAPAL SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,23502,MALE
+457,Uttar Pradesh,Jaunpur,SHYAM SINGH YADAV,GEN,GENERAL,Bahujan Samaj Party,Elephant,80936,MALE
+458,Uttar Pradesh,Machhlishahr,Bholanath (B.P. Saroj),SC,SC,Bharatiya Janata Party,Lotus,181,MALE
+459,Uttar Pradesh,Akbarpur,Devendra Singh 'Bhole',GEN,GENERAL,Bharatiya Janata Party,Lotus,275142,MALE
+460,Uttar Pradesh,Ghaziabad,Vijay Kumar Singh,GEN,GENERAL,Bharatiya Janata Party,Lotus,501500,MALE
+461,Uttar Pradesh,Ghazipur,AFZAL ANSARI,GEN,GENERAL,Bahujan Samaj Party,Elephant,119392,MALE
+462,Uttar Pradesh,Jalaun,BHANU PRATAP SINGH VERMA,SC,SC,Bharatiya Janata Party,Lotus,158377,MALE
+463,Uttar Pradesh,Gautam Buddha Nagar,Dr. MAHESH SHARMA,GEN,GENERAL,Bharatiya Janata Party,Lotus,336922,MALE
+464,Uttar Pradesh,Chandauli,Dr. Mahendra Nath Pandey,GEN,GENERAL,Bharatiya Janata Party,Lotus,13959,MALE
+465,Uttar Pradesh,Jhansi,Anurag Sharma,GEN,GENERAL,Bharatiya Janata Party,Lotus,365683,MALE
+466,Uttar Pradesh,Bulandshahr,BHOLA SINGH,SC,SC,Bharatiya Janata Party,Lotus,290057,MALE
+467,Uttar Pradesh,Varanasi,NARENDRA MODI,GEN,GENERAL,Bharatiya Janata Party,Lotus,479505,MALE
+468,Uttar Pradesh,Hamirpur,KUNWAR PUSHPENDRA SINGH CHANDEL,GEN,GENERAL,Bharatiya Janata Party,Lotus,248652,MALE
+469,Uttar Pradesh,Aligarh,SATISH KUMAR GAUTAM,GEN,GENERAL,Bharatiya Janata Party,Lotus,229261,MALE
+470,Uttar Pradesh,Bhadohi,RAMESH CHAND,GEN,GENERAL,Bharatiya Janata Party,Lotus,43615,MALE
+471,Uttar Pradesh,Banda,R.K. SINGH PATEL,GEN,GENERAL,Bharatiya Janata Party,Lotus,58938,MALE
+472,Uttar Pradesh,Hathras,RAJVIR DILER,SC,SC,Bharatiya Janata Party,Lotus,260208,MALE
+473,Uttar Pradesh,Mirzapur,Anupriya Singh Patel,GEN,GENERAL,Apna Dal (Soneylal),Cup & Saucer,232008,FEMALE
+474,Uttar Pradesh,Fatehpur,NIRANJAN JYOTI,GEN,GENERAL,Bharatiya Janata Party,Lotus,198205,FEMALE
+475,Uttar Pradesh,Mathura,HEMA MALINI,GEN,GENERAL,Bharatiya Janata Party,Lotus,293471,FEMALE
+476,Uttar Pradesh,Robertsganj,PAKAURI LAL KOL,SC,SC,Apna Dal (Soneylal),Cup & Saucer,54336,MALE
+477,Uttar Pradesh,Kaushambi,VINOD KUMAR SONKAR,SC,SC,Bharatiya Janata Party,Lotus,38722,MALE
+478,Uttar Pradesh,Agra,Satyapal Singh Baghel,SC,SC,Bharatiya Janata Party,Lotus,211546,MALE
+479,Uttar Pradesh,Phulpur,Keshari Devi Patel,GEN,GENERAL,Bharatiya Janata Party,Lotus,171968,FEMALE
+480,Uttar Pradesh,Fatehpur Sikri,RAJKUMAR CHAHAR,GEN,GENERAL,Bharatiya Janata Party,Lotus,495065,MALE
+481,Uttar Pradesh,Allahabad,Rita Bahuguna Joshi,GEN,GENERAL,Bharatiya Janata Party,Lotus,184275,FEMALE
+482,Uttar Pradesh,Firozabad,Dr. Chandra Sen Jadon,GEN,GENERAL,Bharatiya Janata Party,Lotus,28781,MALE
+483,Uttar Pradesh,Barabanki,Upendra Singh Rawat,SC,SC,Bharatiya Janata Party,Lotus,110140,MALE
+484,Uttar Pradesh,Mainpuri,MULAYAM SINGH YADAV,GEN,GENERAL,Samajwadi Party,Bicycle,94389,MALE
+485,Uttar Pradesh,Faizabad,LALLU SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,65477,MALE
+486,Uttar Pradesh,Etah,Rajveer Singh (Raju Bhaiya),GEN,GENERAL,Bharatiya Janata Party,Lotus,122670,MALE
+487,Uttar Pradesh,Ambedkar Nagar,Ritesh Pandey,GEN,GENERAL,Bahujan Samaj Party,Elephant,95880,MALE
+488,Uttar Pradesh,Badaun,Dr. Sanghmitra Maurya,GEN,GENERAL,Bharatiya Janata Party,Lotus,18454,FEMALE
+489,Uttar Pradesh,Bahraich,AKSHAIBAR LAL,SC,SC,Bharatiya Janata Party,Lotus,128752,MALE
+490,Uttar Pradesh,Aonla,DHARMENDRA KASHYAP,GEN,GENERAL,Bharatiya Janata Party,Lotus,113743,MALE
+491,Uttar Pradesh,Kaiserganj,Brijbhusan Sharan Singh,GEN,GENERAL,Bharatiya Janata Party,Lotus,261601,MALE
+492,Uttar Pradesh,Bareilly,SANTOSH KUMAR GANGWAR,GEN,GENERAL,Bharatiya Janata Party,Lotus,167282,MALE
+493,Uttar Pradesh,Shrawasti,RAM SHIROMANI,GEN,GENERAL,Bahujan Samaj Party,Elephant,5320,MALE
+494,Uttar Pradesh,Pilibhit,Feroze Varun Gandhi,GEN,GENERAL,Bharatiya Janata Party,Lotus,255627,MALE
+495,Uttar Pradesh,Gonda,KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA,GEN,GENERAL,Bharatiya Janata Party,Lotus,166360,MALE
+496,Uttar Pradesh,Shahjahanpur,Arun Kumar Sagar,SC,SC,Bharatiya Janata Party,Lotus,268418,MALE
+497,Uttarakhand,Tehri Garhwal,MALA RAJYA LAXMI SHAH,GEN,GENERAL,Bharatiya Janata Party,Lotus,300586,FEMALE
+498,Uttarakhand,Garhwal,Tirath Singh Rawat,GEN,GENERAL,Bharatiya Janata Party,Lotus,302669,MALE
+499,Uttarakhand,Almora,Ajay Tamta,SC,SC,Bharatiya Janata Party,Lotus,232986,MALE
+500,Uttarakhand,Nainital-udhamsingh Nagar,Ajay Bhatt,GEN,GENERAL,Bharatiya Janata Party,Lotus,339096,MALE
+501,Uttarakhand,Hardwar,Ramesh Pokhriyal 'Nishank',GEN,GENERAL,Bharatiya Janata Party,Lotus,258729,MALE
+502,West Bengal,Birbhum,SATABDI ROY,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,88924,FEMALE
+503,West Bengal,Baharampur,ADHIR RANJAN CHOWDHURY,GEN,GENERAL,Indian National Congress,Hand,80696,MALE
+504,West Bengal,Murshidabad,ABU TAHER KHAN,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,226417,MALE
+505,West Bengal,Krishnanagar,MAHUA MOITRA,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,63218,FEMALE
+506,West Bengal,Ranaghat,JAGANNATH SARKAR,SC,SC,Bharatiya Janata Party,Lotus,233428,MALE
+507,West Bengal,Bangaon,SHANTANU THAKUR,SC,SC,Bharatiya Janata Party,Lotus,111594,MALE
+508,West Bengal,Barrackpore,ARJUN SINGH,GEN,GENERAL,Bharatiya Janata Party,Lotus,14857,MALE
+509,West Bengal,Dum dum,SOUGATA RAY,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,53002,MALE
+510,West Bengal,Barasat,Dr. Kakoli Ghoshdastidar,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,110169,FEMALE
+511,West Bengal,Basirhat,Nusrat Jahan Ruhi,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,350369,FEMALE
+512,West Bengal,Jaynagar,PRATIMA MONDAL,SC,SC,All India Trinamool Congress,Flowers and Grass,316775,FEMALE
+513,West Bengal,Mathurapur,CHOUDHURY MOHAN JATUA,SC,SC,All India Trinamool Congress,Flowers and Grass,203974,MALE
+514,West Bengal,Diamond harbour,ABHISHEK BANERJEE,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,320594,MALE
+515,West Bengal,Jadavpur,MIMI CHAKRABORTY,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,295239,FEMALE
+516,West Bengal,Kolkata Dakshin,Mala Roy,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,155192,FEMALE
+517,West Bengal,Kolkata Uttar,BANDYOPADHYAY SUDIP,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,127095,MALE
+518,West Bengal,Howrah,Prasun Banerjee,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,103695,MALE
+519,West Bengal,Uluberia,SAJDA AHMED,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,215359,FEMALE
+520,West Bengal,Srerampur,KALYAN BANERJEE,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,98536,MALE
+521,West Bengal,Hooghly,LOCKET CHATTERJEE,GEN,GENERAL,Bharatiya Janata Party,Lotus,73362,FEMALE
+522,West Bengal,Arambagh,APARUPA PODDAR (AFRIN ALI),SC,SC,All India Trinamool Congress,Flowers and Grass,1142,FEMALE
+523,West Bengal,Tamluk,Adhikari Dibyendu,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,190165,MALE
+524,West Bengal,Kanthi,Adhikari Sisir,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,111668,MALE
+525,West Bengal,Ghatal,ADHIKARI DEEPAK (DEV),GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,107973,MALE
+526,West Bengal,Jhargram,Kunar Hembram,ST,ST,Bharatiya Janata Party,Lotus,11767,MALE
+527,West Bengal,Cooch behar,NISITH PRAMANIK,SC,SC,Bharatiya Janata Party,Lotus,54231,MALE
+528,West Bengal,Medinipur,Dilip Ghosh,GEN,GENERAL,Bharatiya Janata Party,Lotus,88952,MALE
+529,West Bengal,Alipurduars,JOHN BARLA,ST,ST,Bharatiya Janata Party,Lotus,243989,MALE
+530,West Bengal,Purulia,JYOTIRMAY SINGH MAHATO,GEN,GENERAL,Bharatiya Janata Party,Lotus,204732,MALE
+531,West Bengal,Jalpaiguri,Dr. JAYANTA KUMAR ROY,SC,SC,Bharatiya Janata Party,Lotus,184004,MALE
+532,West Bengal,Bankura,DR. SUBHAS SARKAR,GEN,GENERAL,Bharatiya Janata Party,Lotus,174333,MALE
+533,West Bengal,Darjeeling,RAJU BISTA,GEN,GENERAL,Bharatiya Janata Party,Lotus,413443,MALE
+534,West Bengal,Bishnupur,KHAN SAUMITRA,SC,SC,Bharatiya Janata Party,Lotus,78047,MALE
+535,West Bengal,Raiganj,DEBASREE CHAUDHURI,GEN,GENERAL,Bharatiya Janata Party,Lotus,60574,FEMALE
+536,West Bengal,Bardhaman Purba,SUNIL KUMAR MONDAL,SC,SC,All India Trinamool Congress,Flowers and Grass,89311,MALE
+537,West Bengal,Balurghat,Sukanta Majumdar,GEN,GENERAL,Bharatiya Janata Party,Lotus,33293,MALE
+538,West Bengal,Bardhaman Durgapur,S.S AHLUWALIA,GEN,GENERAL,Bharatiya Janata Party,Lotus,2439,MALE
+539,West Bengal,Maldaha Uttar,KHAGEN MURMU,GEN,ST,Bharatiya Janata Party,Lotus,84288,MALE
+540,West Bengal,Asansol,BABUL SUPRIYO,GEN,GENERAL,Bharatiya Janata Party,Lotus,197637,MALE
+541,West Bengal,Maldaha Dakshin,ABU HASEM KHAN CHOWDHURY (DALU),GEN,GENERAL,Indian National Congress,Hand,8222,MALE
+542,West Bengal,Bolpur,ASIT KUMAR MAL,SC,SC,All India Trinamool Congress,Flowers and Grass,106402,MALE
+543,West Bengal,Jangipur,KHALILUR RAHAMAN,GEN,GENERAL,All India Trinamool Congress,Flowers and Grass,245782,MALE
