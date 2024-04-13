@@ -91,8 +91,8 @@ with col8:
 with col9:
     sns.barplot(x=Genderwise_contestent_by_selected_party.index, y=Genderwise_contestent_by_selected_party.values)
     # plt.grid()
-    plt.xlabel('Gender')
-    plt.ylabel('Candidate count')
+    plt.xlabel('Gender', fontsize=15)
+    plt.ylabel('Candidate count', fontsize=15)
     plt.gca().ticklabel_format(axis='y', style='plain')
     plt.xticks(fontsize=13)
     plt.yticks(fontsize=13)
@@ -127,8 +127,8 @@ if not Genderwise_winners_by_selected_party.empty:
     with col11:
         sns.barplot(x=Genderwise_winners_by_selected_party.index, y=Genderwise_winners_by_selected_party.values)
         # plt.grid()
-        plt.xlabel('Gender')
-        plt.ylabel('Winner count')
+        plt.xlabel('Gender', fontsize=15)
+        plt.ylabel('Winner count', fontsize=15)
         plt.gca().ticklabel_format(axis='y', style='plain')
         plt.xticks(fontsize=13)
         plt.yticks(fontsize=13)

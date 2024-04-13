@@ -72,8 +72,8 @@ with col5:
 with col6:
     sns.barplot(x=Genderwise_candidates_in_selected_state.index, y=Genderwise_candidates_in_selected_state.values)
     # plt.grid()
-    plt.xlabel('Gender')
-    plt.ylabel('Candidate count')
+    plt.xlabel('Gender', fontsize=15)
+    plt.ylabel('Candidate count', fontsize=15)
     plt.gca().ticklabel_format(axis='y', style='plain')
     plt.xticks(fontsize=13)
     plt.yticks(fontsize=13)
@@ -104,8 +104,8 @@ with col7:
 with col8:
     sns.barplot(x=Genderwise_winners_by_selected_state.index, y=Genderwise_winners_by_selected_state.values)
     # plt.grid()
-    plt.xlabel('Gender')
-    plt.ylabel('Winner count')
+    plt.xlabel('Gender', fontsize=15)
+    plt.ylabel('Winner count', fontsize=15)
     plt.gca().ticklabel_format(axis='y', style='plain')
     plt.xticks(fontsize=13)
     plt.yticks(fontsize=13)
@@ -136,8 +136,8 @@ with col9:
 with col10:
     sns.barplot(x=df.index, y='Population', data=df)
     # plt.grid()
-    plt.xlabel('Gender')
-    plt.ylabel('Elector count')
+    plt.xlabel('Gender', fontsize=15)
+    plt.ylabel('Elector count', fontsize=15)
     plt.gca().ticklabel_format(axis='y', style='plain')
     plt.xticks(fontsize=13)
     plt.yticks(fontsize=13)
@@ -164,8 +164,8 @@ with col11:
 with col12:
     sns.barplot(x=df.index, y='Population', data=df)
     # plt.grid()
-    plt.xlabel('Gender')
-    plt.ylabel('Voter count')
+    plt.xlabel('Gender', fontsize=15)
+    plt.ylabel('Voter count', fontsize=15)
     plt.gca().ticklabel_format(axis='y', style='plain')
     plt.xticks(fontsize=13)
     plt.yticks(fontsize=13)
